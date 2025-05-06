@@ -6,7 +6,7 @@ gspread
 google-auth
 oauth2client
 deep-translator
-torch>=2.0.0,<2.1.0
+#torch>=2.0.0,<2.1.0
 sentence-transformers>=2.2.2
 openjij
 dimod
