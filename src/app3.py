@@ -7,6 +7,8 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from collections import defaultdict
 
+os.environ["TORCH_USE_RTLD_GLOBAL"] = "YES"
+
 # settings.py からパラメータを読み込み
 from config.settings import (
     LAMBDA1, LAMBDA2, LAMBDA3, LAMBDA4, ALPHA,
@@ -23,7 +25,21 @@ def vectorize_wishes(wishes):
     願い事をベクトル化する関数
     """
     from sentence_transformers import SentenceTransformer
-    model_path = os.path.join("models", "labse-distil")
+    
+    # パスの検索順序
+    possible_paths = [
+        "models/labse-distil",
+        "src/models/labse-distil",
+        "./models/labse-distil",
+        "./src/models/labse-distil"
+    ]
+
+    model_path = None
+    for path in possible_paths:
+        if os.path.exists(path):
+            model_path = path
+            break
+
     model = SentenceTransformer(model_path)
     wish_vectors = model.encode(wishes, normalize_embeddings=True)
     return wish_vectors
