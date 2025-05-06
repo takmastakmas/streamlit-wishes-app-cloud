@@ -11,7 +11,7 @@ credentials = ServiceAccountCredentials.from_json_keyfile_dict(credentials_info,
 client = gspread.authorize(credentials)
 
 # スプレッドシートを開く
-spreadsheet_id = st.secrets["SPREADSHEET_ID"]  # スプレッドシートIDを設定
+spreadsheet_id = st.secrets["gcp_service_account"]["SPREADSHEET_ID"]  # スプレッドシートIDを設定
 sheet_name = "tanabata_wishes"  # シート名を設定
 sheet = client.open_by_key(spreadsheet_id).worksheet(sheet_name)
 
