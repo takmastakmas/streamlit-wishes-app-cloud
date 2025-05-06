@@ -13,9 +13,11 @@ streamlit-wishes-app-cloud
 │   ├── google_sheets.py      # Google Sheets API との連携（読み書き）を行うモジュール
 │   ├── config
 │   │   └── settings.py       # 各種設定（APIキー、スプレッドシートID、QUBOパラメータなど）
-│   └── data                 # 国情報やその他のデータを格納するフォルダ
-│       ├── country_flags.csv # 国旗絵文字や国情報のデータ
-│       └── その他のデータファイル
+│   ├── data                  # 国情報やその他のデータを格納するフォルダ
+│   │   ├── country_flags.csv # 国旗絵文字や国情報のデータ
+│   │   └── その他のデータファイル
+│   └── models                # ベクトル化用の言語モデル
+│       └── labse-distil      # 軽量版多言語埋め込みモデル
 ├── requirements.txt          # 必要な Python パッケージ一覧
 └── README.md                 # 本ドキュメント
 ```
@@ -37,18 +39,28 @@ streamlit-wishes-app-cloud
    pip install -r requirements.txt
    ```
 
-3. **Google Sheets の設定**
+3. **言語モデルの準備**
+
+   - ベクトル化に使用する軽量版の言語モデル（labse-distil）が `src/models/labse-distil` フォルダに存在することを確認してください。
+   - モデルがない場合は、以下のスクリプトを実行してモデルをダウンロードできます。
+   ```python
+   from sentence_transformers import SentenceTransformer
+   model = SentenceTransformer('distiluse-base-multilingual-cased')
+   model.save("./src/models/labse-distil")
+   ```
+
+4. **Google Sheets の設定**
 
    - [Google Sheets API Quickstart](https://developers.google.com/sheets/api/quickstart/python) を参照して、Google Cloud 上でプロジェクトを設定し、サービスアカウントキー（JSON）を取得してください。
    - 取得した認証情報を、`google_sheets.py` で指定された場所に配置するか、Streamlit Cloud の Secrets を利用してください。
    - `google_sheets.py` 内で、`spreadsheet_id` や `sheet_name` などの設定を適宜修正してください。
 
-4. **データフォルダの確認**
+5. **データフォルダの確認**
 
    - 国情報などの CSV ファイルは、`src/data` フォルダ内に配置してください。  
      例：`src/data/country_flags.csv`
 
-5. **アプリの起動**
+6. **アプリの起動**
 
    以下のコマンドを実行して、アプリを起動します。
 

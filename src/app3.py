@@ -23,7 +23,8 @@ def vectorize_wishes(wishes):
     願い事をベクトル化する関数
     """
     from sentence_transformers import SentenceTransformer
-    model = SentenceTransformer('sentence-transformers/LaBSE')
+    model_path = os.path.join("src", "models", "labse-distil")
+    model = SentenceTransformer(model_path)
     wish_vectors = model.encode(wishes, normalize_embeddings=True)
     return wish_vectors
 
@@ -50,8 +51,6 @@ def encode_attributes(df):
     encoded_age = le_age.fit_transform(df["age"].astype(str)).astype(int)
     encoded_gender = le_gender.fit_transform(df["gender"].astype(str)).astype(int)
     encoded_pref = le_pref.fit_transform(df["prefecture"].fillna("不明").astype(str)).astype(int)
-
-    st.write("データ型情報", df.dtypes)
 
     attributes = {
         "country": encoded_country,
