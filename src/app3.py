@@ -23,7 +23,7 @@ def vectorize_wishes(wishes):
     願い事をベクトル化する関数
     """
     from sentence_transformers import SentenceTransformer
-    model_path = os.path.join("src", "models", "labse-distil")
+    model_path = os.path.join("models", "labse-distil")
     model = SentenceTransformer(model_path)
     wish_vectors = model.encode(wishes, normalize_embeddings=True)
     return wish_vectors
