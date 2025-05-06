@@ -51,6 +51,8 @@ def encode_attributes(df):
     encoded_gender = le_gender.fit_transform(df["gender"].astype(str)).astype(int)
     encoded_pref = le_pref.fit_transform(df["prefecture"].fillna("不明").astype(str)).astype(int)
 
+    st.write("データ型情報", df.dtypes)
+
     attributes = {
         "country": encoded_country,
         "age": encoded_age,
