@@ -1,0 +1,11 @@
+streamlit
+gspread
+google-auth
+pandas
+sentence-transformers
+openjij
+deep-translator
+oauth2client
+numpy
+scikit-learn
+dimod

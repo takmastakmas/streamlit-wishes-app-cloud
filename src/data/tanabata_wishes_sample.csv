@@ -1,0 +1,512 @@
+﻿age,gender,country,prefecture,wish_original,wish_ja,wish_en,wish_zh,wish_ko,flag,timestamp
+21-30,男性,日本,東京都,世界平和,世界平和,World Peace,世界和平,세계 평화,🇯🇵,2025-05-04 23:52:11
+31-40,女性,アメリカ,,健康で幸せな生活,健康で幸せな生活,A healthy and happy life,健康快乐的生活,건강하고 행복한 삶,🇺🇸,2025-05-04 23:52:11
+11-20,回答しない,中国,,宇宙旅行に行きたい,宇宙旅行に行きたい,I want to go on a space trip,我想去太空旅行,우주 여행에 가고 싶어요,🇨🇳,2025-05-04 23:52:11
+41-50,男性,韓国,,新しいスキルを学びたい,新しいスキルを学びたい,I want to learn new skills,我想学习新技能,새로운 기술을 배우고 싶습니다,🇰🇷,2025-05-04 23:52:11
+51-60,女性,日本,大阪府,家族ともっと時間を過ごしたい,家族ともっと時間を過ごしたい,I want to spend more time with my family,我想花更多的时间陪伴家人,가족과 더 많은 시간을 보내고 싶습니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,静岡県,今からでも大学に行きたい,今からでも大学に行きたい,I want to go to university now,我想现在上大学,나는 지금 대학에 가고 싶다,🇯🇵,2025-05-04 23:52:11
+31-40,回答しない,日本,島根県,バイリンガルで活躍できるジャーナリストになれますように,バイリンガルで活躍できるジャーナリストになれますように,I hope you become a bilingual journalist,我希望你成为双语记者,이중 언어 기자가되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,チュニジア,,I hope that business-efficient tools will be introduced,業務効率の良いツールが導入されますように,I hope that business-efficient tools will be introduced,我希望将介绍业务效率的工具,비즈니스 효율적인 도구가 도입되기를 바랍니다,🇹🇳,2025-05-04 23:52:11
+61-70,男性,日本,福島県,ロックバンドとしてメジャーデビューできますように,ロックバンドとしてメジャーデビューできますように,Hopefully they can make their major debut as a rock band,希望他们能成为摇滚乐队的主要首次亮相,바라건대 그들은 록 밴드로 메이저 데뷔를 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,静岡県,修学旅行が思い出深いものになりますように,修学旅行が思い出深いものになりますように,I hope your school trip will be memorable,希望您的学校旅行会令人难忘,학교 여행이 기억에 남기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,中国,,希望您能永远与您的朋友保持亲密关系,友達とずっと仲良しでいられますように,I hope you can stay close to your friends forever,希望您能永远与您的朋友保持亲密关系,나는 당신이 영원히 친구들과 가까이있을 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+41-50,女性,ペルー,,I hope remote work can continue,リモートワークが継続できますように,I hope remote work can continue,我希望远程工作可以继续,원격 작업이 계속 될 수 있기를 바랍니다,🇵🇪,2025-05-04 23:52:11
+41-50,女性,韓国,,초과 근무가 줄어들고 시간이 증가하기를 바랍니다,残業が減り、自分の時間が増えますように,I hope my overtime decreases and my time increases,我希望我的加时时间有所下降，时间增加,초과 근무가 줄어들고 시간이 증가하기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+61-70,女性,中国,,我希望你每天都能吃美味的食物,毎日おいしくごはんが食べられますように,I hope you can eat delicious food every day,我希望你每天都能吃美味的食物,매일 맛있는 음식을 먹을 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+11-20,女性,日本,山形県,友達と仲良く勉強できますように,友達と仲良く勉強できますように,I hope you can study with your friends,希望你能和你的朋友一起学习,친구들과 공부할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,サウジアラビア,,I hope you can write poetry in languages ​​all over the world,世界中の言語で詩を詠めるようになりますように,I hope you can write poetry in languages ​​all over the world,我希望你可以用全世界的语言写诗歌,전 세계의 언어로시를 쓸 수 있기를 바랍니다.,🇸🇦,2025-05-04 23:52:11
+61-70,男性,パプアニューギニア,,I hope the gap between rich and poor will be narrowed,貧富の差が縮まりますように,I hope the gap between rich and poor will be narrowed,我希望富人与穷人之间的差距将被缩小,부자와 가난한 사람의 격차가 좁아 지길 바랍니다.,🇵🇬,2025-05-04 23:52:11
+21-30,男性,日本,新潟県,ごみの分別が正しく行われますように,ごみの分別が正しく行われますように,I hope that the garbage is sorted correctly,我希望垃圾正确排序,쓰레기가 올바르게 정렬되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,中国,,可以以数字方式和平等的方式提供教育机会,教育機会がデジタルで平等に提供されますように,May educational opportunities be provided digitally and equally,可以以数字方式和平等的方式提供教育机会,교육 기회가 디지털적이고 동일하게 제공 될 수 있습니다,🇨🇳,2025-05-04 23:52:11
+70-,男性,グアテマラ,,I hope you can appear in the drama,ドラマに出演できますように,I hope you can appear in the drama,我希望你能出现在戏剧中,드라마에 나타날 수 있기를 바랍니다,🇬🇹,2025-05-04 23:52:11
+41-50,女性,ドイツ,,"Ich hoffe, Sie können das Praktikum bestehen",インターンに合格できますように,I hope you can pass the internship,我希望你能通过实习,인턴쉽을 통과 할 수 있기를 바랍니다,🇩🇪,2025-05-04 23:52:11
+31-40,女性,韓国,,신뢰할 수있는 친구를 만들 수 있기를 바랍니다,信頼できる友達ができますように,I hope you can make trustworthy friends,我希望你能结交可信赖的朋友,신뢰할 수있는 친구를 만들 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+70-,女性,韓国,,지역 활성화가 전국에 퍼지기를 바랍니다,地方創生が全国に波及しますように,May regional revitalization spread throughout the country,可能会在全国范围内传播区域振兴,지역 활성화가 전국에 퍼지기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+70-,男性,日本,愛媛県,多様性が尊重される社会になりますように,多様性が尊重される社会になりますように,I hope that a society is respected in diversity,我希望一个社会在多样性中受到尊重,나는 사회가 다양성에서 존중되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,日本,佐賀県,防犯カメラが適切に設置されますように,防犯カメラが適切に設置されますように,Ensure that security cameras are installed properly,确保正确安装安全摄像机,보안 카메라가 올바르게 설치되어 있는지 확인하십시오,🇯🇵,2025-05-04 23:52:11
+51-60,男性,エジプト,,I hope that excessive sense of responsibility will be reduced,過度な責任感が軽くなりますように,I hope that excessive sense of responsibility will be reduced,我希望过度的责任感将减少,과도한 책임감이 줄어들기를 바랍니다.,🇪🇬,2025-05-04 23:52:11
+41-50,女性,南アフリカ,,I hope we can develop programming languages ​​from scratch,ゼロからプログラミング言語を開発できますように,I hope we can develop programming languages ​​from scratch,我希望我们可以从头开始开发编程语言,처음부터 프로그래밍 언어를 개발할 수 있기를 바랍니다,🇿🇦,2025-05-04 23:52:11
+11-20,男性,カナダ,,I hope you will enter your faculty of your choice,希望の学部に入れますように,I hope you will enter your faculty of your choice,希望您能进入您选择的教师,선택한 교수진에 들어가길 바랍니다.,🇨🇦,2025-05-04 23:52:11
+70-,男性,ベリーズ,,I hope there will be more parks where children can play safely,子どもたちが安全に遊べる公園が増えますように,I hope there will be more parks where children can play safely,我希望孩子们可以安全玩耍的公园,아이들이 안전하게 놀 수있는 더 많은 공원이 있기를 바랍니다.,🇧🇿,2025-05-04 23:52:11
+31-40,女性,中国,,希望您在出国留学时会有丰富的经历,留学先で充実した経験ができますように,I hope you will have a fulfilling experience when studying abroad,希望您在出国留学时会有丰富的经历,해외에서 공부할 때 성취 된 경험이 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+51-60,男性,中国,,我希望可以确保心理安全,心理的安全が確保できますように,I hope that psychological safety can be ensured,我希望可以确保心理安全,심리적 안전이 보장 될 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+51-60,男性,ナイジェリア,,Make your career path clear,キャリアパスが明確になりますように,Make your career path clear,使您的职业道路清晰,경력 경로를 명확하게하십시오,🇳🇬,2025-05-04 23:52:11
+11-20,女性,韓国,,친구들과의 그룹 라인이 흥미로워 지길 바랍니다,友達とのグループLINEが盛り上がりますように,I hope that your group LINE with friends will be exciting,我希望您的小组与朋友排队会令人兴奋,친구들과의 그룹 라인이 흥미로워 지길 바랍니다.,🇰🇷,2025-05-04 23:52:11
+70-,女性,韓国,,나는 당신이 프로 피아니스트로 무대에 있기를 바랍니다,プロのピアニストとしてステージに立てますように,I hope you will be on stage as a professional pianist.,我希望您能作为专业钢琴家上台。,나는 당신이 프로 피아니스트로 무대에 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,女性,ウクライナ,,I hope the gap between rich and poor will be narrowed,貧富の差が縮まりますように,I hope the gap between rich and poor will be narrowed,我希望富人与穷人之间的差距将被缩小,부자와 가난한 사람의 격차가 좁아 지길 바랍니다.,🇺🇦,2025-05-04 23:52:11
+41-50,女性,ジャマイカ,,I hope you can win a scholarship,奨学金を獲得できますように,I hope you can win a scholarship,希望您能赢得奖学金,장학금을받을 수 있기를 바랍니다,🇯🇲,2025-05-04 23:52:11
+-10,女性,日本,福井県,先生に怒られませんように,先生に怒られませんように,I hope the teacher doesn't get mad,我希望老师不会生气,선생님이 화 내지 않기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,山口県,会議資料の準備が楽になりますように,会議資料の準備が楽になりますように,I hope that meeting materials will be prepared easily,我希望会议材料会很容易准备,회의 자료가 쉽게 준비되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,広島県,成績が上がりますように,成績が上がりますように,I hope your grades improve,希望您的成绩有所提高,나는 당신의 성적이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,中国,,我可以接受我的悲伤并前进吗,悲しみを受け入れ、前に進めますように,May I accept my sadness and move forward,我可以接受我的悲伤并前进吗,슬픔을 받아들이고 앞으로 나아갈 수 있습니다,🇨🇳,2025-05-04 23:52:11
+41-50,回答しない,日本,宮崎県,スキルギャップが埋まりますように,スキルギャップが埋まりますように,I hope the skill gap is filled,我希望技能差距已经填补,기술 격차가 채워지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,奈良県,翻訳家として有名な本を訳せますように,翻訳家として有名な本を訳せますように,I hope I can translate a book that is famous as a translator,我希望我能翻译一本书，以翻译而闻名,번역가로 유명한 책을 번역 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,中国,,希望您能成为学校节的主角,学芸会で主役になれますように,I hope you will be the main character at the school festival,希望您能成为学校节的主角,학교 축제에서 주인공이 되길 바랍니다.,🇨🇳,2025-05-04 23:52:11
+-10,女性,日本,熊本県,おばけ屋敷がこわくなくなりますように,おばけ屋敷がこわくなくなりますように,I hope the ghost house will no longer be scary,我希望幽灵屋不会再可怕,유령 집이 더 이상 무섭지 않기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,回答しない,中国,,我希望该项目成功完成,プロジェクトが成功裏に完了しますように,I hope the project is completed successfully,我希望该项目成功完成,프로젝트가 성공적으로 완료되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,男性,日本,秋田県,新しいスキルを迅速に習得できますように,新しいスキルを迅速に習得できますように,I hope you can quickly acquire new skills,希望您能快速获得新技能,새로운 기술을 빨리 얻을 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,三重県,仕事のスキルが上がりますように,仕事のスキルが上がりますように,I hope your work skills improve,希望您的工作能力提高,귀하의 업무 기술이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,女性,ガーナ,,I hope rare characters appear in smartphone games,スマホのゲームでレアキャラが出ますように,I hope rare characters appear in smartphone games,我希望稀有角色出现在智能手机游戏中,스마트 폰 게임에 드문 캐릭터가 나타나기를 바랍니다,🇬🇭,2025-05-04 23:52:11
+70-,女性,日本,島根県,地域の医療体制が強化されますように,地域の医療体制が強化されますように,I hope that the local medical system will be strengthened,我希望当地的医疗系统将得到加强,지역 의료 시스템이 강화되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,和歌山県,絶望感が薄れ、希望を見いだせますように,絶望感が薄れ、希望を見いだせますように,May the sense of hope fade away and we can find hope,愿希望的感觉消失了，我们可以找到希望,희망의 감각이 사라지고 우리는 희망을 찾을 수 있습니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,中国,,希望您能在期末考试中获得目标,期末テストで目標点が取れますように,I hope you can get your goals on the final exam,希望您能在期末考试中获得目标,최종 시험에서 목표를 달성 할 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,回答しない,ポーランド,,May the global conservation be strengthened,世界の自然保護が強化されますように,May the global conservation be strengthened,愿全球保护得到加强,글로벌 보존이 강화되기를 바랍니다,🇵🇱,2025-05-04 23:52:11
+61-70,女性,日本,秋田県,里山や川がきれいに保たれますように,里山や川がきれいに保たれますように,I hope that the mountains and rivers are kept clean,我希望山和河流保持清洁,산과 강이 깨끗하게 유지되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,女性,トルコ,,I hope you can work in your ideal team,理想のチームで働けますように,I hope you can work in your ideal team,希望您能在理想的团队中工作,이상적인 팀에서 일할 수 있기를 바랍니다,🇹🇷,2025-05-04 23:52:11
+51-60,回答しない,日本,大分県,家族で健康診断を受ける習慣がつきますように,家族で健康診断を受ける習慣がつきますように,I hope that the family will become a habit of undergoing a health check,我希望这个家庭将成为接受健康检查的习惯,나는 가족이 건강 점검을받는 습관이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,広島県,授業で積極的に発言できますように,授業で積極的に発言できますように,I hope you can speak up positively in class,希望你能在课堂上积极地说出来,수업 시간에 긍정적으로 말할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,中国,,我希望你能作为演员工作,俳優として活躍できますように,I hope you can work as an actor,我希望你能作为演员工作,배우로 일할 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,女性,中国,,愿世界森林砍伐停止,世界の森林破壊が止まりますように,May the deforestation of the world stop,愿世界森林砍伐停止,세상의 삼림 벌채가 멈출 수 있습니다,🇨🇳,2025-05-04 23:52:11
+31-40,女性,韓国,,우리 가족이 재난을 예방할 준비가되기를 바랍니다,家族で災害に強い備えができますように,I hope that our family will be prepared to prevent disasters,我希望我们的家人准备预防灾难,우리 가족이 재난을 예방할 준비가되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+61-70,男性,ベトナム,,I hope that marine plastic waste will be reduced dramatically,海洋プラスチックごみが激減しますように,I hope that marine plastic waste will be reduced dramatically,我希望海洋塑料废物会大大减少,해양 플라스틱 폐기물이 크게 줄어들기를 바랍니다.,🇻🇳,2025-05-04 23:52:11
+31-40,女性,オーストラリア,,I hope that psychological safety can be ensured,心理的安全が確保できますように,I hope that psychological safety can be ensured,我希望可以确保心理安全,심리적 안전이 보장 될 수 있기를 바랍니다,🇦🇺,2025-05-04 23:52:11
+70-,回答しない,中国,,我希望你能和家人一起旅行,家族で旅行に行けますように,I hope you can go on a trip with your family,我希望你能和家人一起旅行,나는 당신이 당신의 가족과 함께 여행 할 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+-10,回答しない,日本,長崎県,みんな仲良くなりますように,みんな仲良くなりますように,I hope everyone gets along well,我希望每个人都相处得很好,모두가 잘 지내길 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,ウクライナ,,I hope you can work at overseas branches,海外支社で活躍できますように,I hope you can work at overseas branches,希望您可以在海外分支机构工作,해외 지점에서 일할 수 있기를 바랍니다,🇺🇦,2025-05-04 23:52:11
+41-50,男性,日本,福井県,地元の名産品が世界に広まりますように,地元の名産品が世界に広まりますように,I hope local specialties spread around the world,我希望当地的特色菜遍布世界各地,지역 전문 분야가 전 세계에 퍼지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,回答しない,日本,徳島県,自分だけのブランドを立ち上げて成功しますように,自分だけのブランドを立ち上げて成功しますように,I hope you will be successful by launching your own brand,希望您通过推出自己的品牌成功,나만의 브랜드를 시작하여 성공하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,岐阜県,卒業後の進路が明確になりますように,卒業後の進路が明確になりますように,I hope that your career path after graduation will be clear,希望您毕业后的职业道路会很清楚,나는 졸업 후 당신의 경력 경로가 분명하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,日本,静岡県,職場の人間関係が良くなりますように,職場の人間関係が良くなりますように,I hope that the relationships at work will improve,我希望工作中的关系会有所改善,직장에서의 관계가 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,回答しない,ボリビア,,I hope I get 100 points on the test,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇧🇴,2025-05-04 23:52:11
+61-70,女性,モロッコ,,I hope that extracurricular activities will be fulfilled,課外活動が充実しますように,I hope that extracurricular activities will be fulfilled,我希望课外活动能够完成,과외 활동이 충족되기를 바랍니다,🇲🇦,2025-05-04 23:52:11
+11-20,女性,韓国,,학교 여행에서 비가 내리지 않기를 바랍니다,修学旅行で雨が降りませんように,I hope it doesn't rain on the school trip,我希望上学不会下雨,학교 여행에서 비가 내리지 않기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+31-40,女性,日本,高知県,自然災害被災者が早期に復興できますように,自然災害被災者が早期に復興できますように,I hope that victims of natural disasters can recover quickly,我希望自然灾害的受害者能够迅速康复,자연 재해의 피해자가 빨리 회복 될 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,岐阜県,好きなキャラクターのぬいぐるみがいっぱいほしい,好きなキャラクターのぬいぐるみがいっぱいほしい,I want lots of stuffed animals from my favorite character,我想要很多我最喜欢角色的毛绒动物,나는 내가 좋아하는 캐릭터에서 박제 동물을 많이 원한다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,山口県,絶望感が薄れ、希望を見いだせますように,絶望感が薄れ、希望を見いだせますように,May the sense of hope fade away and we can find hope,愿希望的感觉消失了，我们可以找到希望,희망의 감각이 사라지고 우리는 희망을 찾을 수 있습니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,秋田県,会議の時間が短縮されますように,会議の時間が短縮されますように,I hope the meeting time will be reduced,我希望会议时间会减少,회의 시간이 줄어들기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,女性,中国,,希望你能和你的朋友一起学习,友達と仲良く勉強できますように,I hope you can study with your friends,希望你能和你的朋友一起学习,친구들과 공부할 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+11-20,男性,韓国,,학교 축제의 집행위원회로 선정되기를 바랍니다,文化祭の実行委員に選ばれますように,I hope you will be selected as the executive committee of the school festival,希望您将被选为学校节日的执行委员会,학교 축제의 집행위원회로 선정되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+-10,男性,韓国,,내 숙제가 사라지기를 바랍니다,宿題がなくなりますように,I hope my homework is gone,我希望我的作业不见了,내 숙제가 사라지기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+11-20,男性,日本,岡山県,修学旅行で雨が降りませんように,修学旅行で雨が降りませんように,I hope it doesn't rain on the school trip,我希望上学不会下雨,학교 여행에서 비가 내리지 않기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,エクアドル,,May regional revitalization spread throughout the country,地方創生が全国に波及しますように,May regional revitalization spread throughout the country,可能会在全国范围内传播区域振兴,지역 활성화가 전국에 퍼지기를 바랍니다,🇪🇨,2025-05-04 23:52:11
+11-20,回答しない,イラン,,I hope your studies will be fun,勉強が楽しくなりますように,I hope your studies will be fun,希望您的学业会很有趣,나는 당신의 공부가 재미 있기를 바랍니다,🇮🇷,2025-05-04 23:52:11
+31-40,男性,中国,,我希望世界的教育差距将消除,世界の教育格差がなくなりますように,I hope that the world's education gap will be eliminated,我希望世界的教育差距将消除,세계의 교육 격차가 제거되기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+31-40,男性,サウジアラビア,,I hope you can work at overseas branches,海外支社で活躍できますように,I hope you can work at overseas branches,希望您可以在海外分支机构工作,해외 지점에서 일할 수 있기를 바랍니다,🇸🇦,2025-05-04 23:52:11
+61-70,女性,日本,福島県,職場の人間関係が改善しますように,職場の人間関係が改善しますように,I hope that the relationships at work will improve,我希望工作中的关系会有所改善,직장에서의 관계가 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,大分県,チームの負荷分散がうまくいきますように,チームの負荷分散がうまくいきますように,I hope that teams can balance their load well,我希望团队能够很好地平衡他们的负担,팀이 짐 균형을 잘 맞출 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,三重県,世界中の伝統工芸を学ぶ旅に出られますように,世界中の伝統工芸を学ぶ旅に出られますように,I hope you will be on a journey to learn about traditional crafts from around the world,我希望您能在世界各地了解传统手工艺品的旅程,전 세계의 전통 공예품에 대해 배우기 위해 여행을 하시길 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,イタリア,,I hope you can connect with people without feeling alone,孤独感を感じず、人とつながれますように,I hope you can connect with people without feeling alone,我希望你能与人建立联系而不会感到一个人,혼자 느끼지 않고 사람들과 연결할 수 있기를 바랍니다.,🇮🇹,2025-05-04 23:52:11
+41-50,男性,日本,高知県,プロのダンサーとして世界ツアーに参加できますように,プロのダンサーとして世界ツアーに参加できますように,I hope you can join a world tour as a professional dancer,希望您能参加专业舞者参加世界巡回演唱会,프로 댄서로 월드 투어에 참여할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,茨城県,地域の安心・安全が守られますように,地域の安心・安全が守られますように,I hope that the safety and security of the local community can be maintained,我希望可以维护当地社区的安全性,지역 사회의 안전과 보안이 유지 될 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,新潟県,心のモヤモヤが晴れますように,心のモヤモヤが晴れますように,I hope the uneasy feelings of my heart will be cleared,我希望我的内心不安的感觉能被清除,내 마음의 불안한 감정이 사라지기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,山形県,家族でボランティア活動に参加できますように,家族でボランティア活動に参加できますように,I hope that your family can participate in volunteer activities,我希望您的家人可以参加志愿活动,나는 당신의 가족이 자원 봉사 활동에 참여할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,回答しない,チュニジア,,I hope you don't worry,心配事がなくなりますように,I hope you don't worry,我希望你不用担心,걱정하지 않기를 바랍니다,🇹🇳,2025-05-04 23:52:11
+-10,男性,韓国,,나는 여름 방학이 더 길기를 원합니다,夏休みが長くなってほしい,I want the summer vacation to be longer,我希望暑假更长,나는 여름 방학이 더 길기를 원합니다,🇰🇷,2025-05-04 23:52:11
+31-40,女性,日本,秋田県,先生との信頼関係が築けますように,先生との信頼関係が築けますように,I hope you can build a relationship of trust with your teacher,希望您能与您的老师建立信任关系,선생님과 신뢰의 관계를 구축 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,愛知県,友達と仲良く勉強できますように,友達と仲良く勉強できますように,I hope you can study with your friends,希望你能和你的朋友一起学习,친구들과 공부할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,長野県,難民が安全に暮らせる環境が整いますように,難民が安全に暮らせる環境が整いますように,I hope that the environment is created where refugees can live safely,我希望在难民可以安全地生活的地方创造环境,난민이 안전하게 살 수있는 환경이 만들어지기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,千葉県,水資源の安定供給が確保されますように,水資源の安定供給が確保されますように,I hope that a stable supply of water resources is ensured,我希望能确保稳定的水资源供应,안정적인 수자원 공급이 보장되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,長崎県,海外留学できますように,海外留学できますように,I hope you can study abroad,我希望你可以出国学习,해외에서 공부할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,回答しない,日本,大分県,失敗から学び成長できますように,失敗から学び成長できますように,I hope you can learn and grow from your mistakes,希望您可以从错误中学习并成长,실수로 배우고 성장할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,岐阜県,自分だけの小さなカフェを開業できますように,自分だけの小さなカフェを開業できますように,I hope you can open your own small cafe,我希望你能开设自己的小咖啡馆,나는 당신이 당신의 작은 카페를 열 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,サウジアラビア,,May the wildlife be protected,野生動物が守られますように,May the wildlife be protected,愿野生动植物受到保护,야생 동물이 보호되기를 바랍니다,🇸🇦,2025-05-04 23:52:11
+11-20,男性,韓国,,제가 가장 좋아하는 라이브 티켓을 얻었 으면 좋겠어요,推しのライブチケットが当たりますように,I hope you win a live ticket from my favorite,希望您从我最喜欢的,제가 가장 좋아하는 라이브 티켓을 얻었 으면 좋겠어요,🇰🇷,2025-05-04 23:52:11
+31-40,回答しない,日本,静岡県,技術的な問題が早く解決しますように,技術的な問題が早く解決しますように,I hope that technical problems will be resolved soon,我希望技术问题能尽快解决,기술적 문제가 곧 해결되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,女性,日本,滋賀県,自分を許せるようになりますように,自分を許せるようになりますように,I hope you can forgive yourself,我希望你能原谅自己,나는 당신이 자신을 용서할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,韓国,,프로젝트의 방향이 분명하기를 바랍니다,プロジェクトの方向性がはっきりしますように,I hope that the direction of the project is clear,我希望该项目的方向很清楚,프로젝트의 방향이 분명하기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+61-70,男性,中国,,我希望你不要放弃自己的梦想,夢をあきらめずに進めますように,I hope you don't give up on your dreams,我希望你不要放弃自己的梦想,나는 당신이 당신의 꿈을 포기하지 않기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+11-20,女性,アメリカ合衆国,,I hope the teacher praises me,先生にほめられますように,I hope the teacher praises me,我希望老师赞美我,선생님이 저를 칭찬하기를 바랍니다,🇺🇸,2025-05-04 23:52:11
+11-20,男性,韓国,,방과후 보충 수업이 없기를 바랍니다,放課後の補習がなくなりますように,I hope there will be no after-school supplementary lessons,我希望不会有课后补充课程,방과후 보충 수업이 없기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+31-40,女性,日本,千葉県,仕事とプライベートを両立できますように,仕事とプライベートを両立できますように,I hope you can balance work and personal life,希望您能平衡工作和个人生活,나는 당신이 일과 개인적인 삶의 균형을 맞출 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,青森県,受験に自信が持てますように,受験に自信が持てますように,I hope you will be confident in your exams,希望您对考试充满信心,시험에 자신감을 갖기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,男性,韓国,,해외에서 공부할 수 있기를 바랍니다,海外留学できますように,I hope you can study abroad,我希望你可以出国学习,해외에서 공부할 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+51-60,男性,日本,和歌山県,グループワークがスムーズに進みますように,グループワークがスムーズに進みますように,I hope that group work will proceed smoothly,我希望小组工作将顺利进行,그 그룹 작업이 순조롭게 진행되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,中国,,使您的职业道路清晰,キャリアパスが明確になりますように,Make your career path clear,使您的职业道路清晰,경력 경로를 명확하게하십시오,🇨🇳,2025-05-04 23:52:11
+51-60,女性,ベネズエラ,,May cross-border cooperation be strengthened,国境を越えた協力が強固になりますように,May cross-border cooperation be strengthened,可以加强跨境合作,국경 간 협력이 강화 될 수 있습니다,🇻🇪,2025-05-04 23:52:11
+61-70,男性,中国,,我希望过度的责任感将减少,過度な責任感が軽くなりますように,I hope that excessive sense of responsibility will be reduced,我希望过度的责任感将减少,과도한 책임감이 줄어들기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,女性,日本,福島県,トラウマが癒え、心が軽くなりますように,トラウマが癒え、心が軽くなりますように,May the trauma heal and the heart be lighter,愿创伤愈合，心脏更轻,외상 치유와 심장이 더 가벼워지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,韓国,,컨퍼런스 프레젠테이션이 큰 성공이되기를 바랍니다,学会発表が大成功しますように,I hope the conference presentation will be a great success,我希望会议演讲将取得巨大的成功,컨퍼런스 프레젠테이션이 큰 성공이되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+70-,女性,日本,香川県,アイデア会議が盛り上がりますように,アイデア会議が盛り上がりますように,I hope the idea meeting will be lively,我希望这个想法会很活跃,아이디어 회의가 활기차게되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,中国,,希望您的学生生活会令人难忘,学生生活が思い出深いものになりますように,I hope your student life will be memorable,希望您的学生生活会令人难忘,학생의 삶이 기억에 남기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+61-70,男性,ベネズエラ,,I hope that we can respond flexibly to sudden changes in specifications,急な仕様変更に柔軟に対応できますように,I hope that we can respond flexibly to sudden changes in specifications.,我希望我们可以灵活地对规格突然变化的反应。,사양의 갑작스런 변화에 유연하게 반응 할 수 있기를 바랍니다.,🇻🇪,2025-05-04 23:52:11
+31-40,女性,日本,福井県,自己否定の声が静かになりますように,自己否定の声が静かになりますように,May the voices of self-denial be quiet,愿自我克服的声音保持安静,자기 부정의 목소리가 조용해지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,ボリビア,,I hope you can always borrow your favorite books in the library,図書室で好きな本がいつも借りられますように,I hope you can always borrow your favorite books in the library,希望您总是可以在图书馆借您喜欢的书,도서관에서 항상 좋아하는 책을 빌릴 수 있기를 바랍니다.,🇧🇴,2025-05-04 23:52:11
+51-60,男性,ホンジュラス,,I hope you can submit your graduation thesis safely,卒論を無事に提出できますように,I hope you can submit your graduation thesis safely,希望您可以安全地提交毕业论文,졸업 논문을 안전하게 제출할 수 있기를 바랍니다,🇭🇳,2025-05-04 23:52:11
+70-,女性,日本,福井県,仕事とプライベートを両立できますように,仕事とプライベートを両立できますように,I hope you can balance work and personal life,希望您能平衡工作和个人生活,나는 당신이 일과 개인적인 삶의 균형을 맞출 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,回答しない,日本,兵庫県,貧富の差が縮まりますように,貧富の差が縮まりますように,I hope the gap between rich and poor will be narrowed,我希望富人与穷人之间的差距将被缩小,부자와 가난한 사람의 격차가 좁아 지길 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,広島県,世界全体で再生可能エネルギーが主流になりますように,世界全体で再生可能エネルギーが主流になりますように,I hope that renewable energy will become the mainstream worldwide,我希望可再生能源将成为全球主流,재생 에너지가 전 세계적으로 주류가되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,日本,茨城県,経済成長が持続可能な形で実現しますように,経済成長が持続可能な形で実現しますように,I hope that economic growth will be realized in a sustainable way,我希望经济增长将以可持续的方式实现,경제 성장이 지속 가능한 방식으로 실현되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,山梨県,海外留学できますように,海外留学できますように,I hope you can study abroad,我希望你可以出国学习,해외에서 공부할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,韓国,,전 세계의 언어로시를 쓸 수 있기를 바랍니다,世界中の言語で詩を詠めるようになりますように,I hope you can write poetry in languages ​​all over the world,我希望你可以用全世界的语言写诗歌,전 세계의 언어로시를 쓸 수 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+41-50,男性,日本,山形県,独立が成功しますように,独立が成功しますように,May independence succeed,愿独立成功,독립이 성공할 수 있습니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,宮崎県,地域の自然が守られますように,地域の自然が守られますように,I hope that the nature of the area is protected,我希望该地区的性质受到保护,지역의 본질이 보호되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,タンザニア,,I hope the exams go well,受験がうまくいきますように,I hope the exams go well,我希望考试顺利,시험이 잘되기를 바랍니다,🇹🇿,2025-05-04 23:52:11
+-10,女性,日本,福島県,テストで100点取れますように,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,南アフリカ,,May ideas change the world,アイデアが世界を変えますように,May ideas change the world,五月的想法改变了世界,아이디어가 세상을 바꾸기를 바랍니다,🇿🇦,2025-05-04 23:52:11
+31-40,男性,日本,長野県,親友が見つかりますように,親友が見つかりますように,I hope you find a best friend,希望你能找到一个最好的朋友,나는 당신이 가장 친한 친구를 찾기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,三重県,世界中の言語で詩を詠めるようになりますように,世界中の言語で詩を詠めるようになりますように,I hope you can write poetry in languages ​​all over the world,我希望你可以用全世界的语言写诗歌,전 세계의 언어로시를 쓸 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,女性,韓国,,나는 당신이 플래시로 자격 시험을 통과하기를 바랍니다,資格試験に一発合格しますように,I hope you pass the qualification exam in a flash,我希望你通过闪光灯通过资格考试,나는 당신이 플래시로 자격 시험을 통과하기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+-10,男性,韓国,,새 자전거를 살 수 있기를 바랍니다,新しい自転車が買ってもらえますように,I hope you can buy a new bike,希望您可以买一辆新自行车,새 자전거를 살 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+41-50,男性,グアテマラ,,I hope you find a best friend,親友が見つかりますように,I hope you find a best friend,希望你能找到一个最好的朋友,나는 당신이 가장 친한 친구를 찾기를 바랍니다,🇬🇹,2025-05-04 23:52:11
+61-70,女性,イラン,,I hope that the lecture notes can be organized properly,講義ノートがしっかり整理できますように,I hope that the lecture notes can be organized properly,我希望可以正确组织讲义,강의 노트가 제대로 구성 될 수 있기를 바랍니다.,🇮🇷,2025-05-04 23:52:11
+41-50,男性,ナイジェリア,,I hope you can join a world tour as a professional dancer,プロのダンサーとして世界ツアーに参加できますように,I hope you can join a world tour as a professional dancer,希望您能参加专业舞者参加世界巡回演唱会,프로 댄서로 월드 투어에 참여할 수 있기를 바랍니다.,🇳🇬,2025-05-04 23:52:11
+-10,女性,日本,奈良県,先生に怒られませんように,先生に怒られませんように,I hope the teacher doesn't get mad,我希望老师不会生气,선생님이 화 내지 않기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,兵庫県,給食でカレーが毎週出ますように,給食でカレーが毎週出ますように,I hope curry will be served every week in school lunches,我希望咖喱每周都会在学校午餐,나는 학교 점심으로 매주 카레가 제공되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,フランス,,J'espère que vous n'abandonnez pas vos rêves,夢をあきらめずに進めますように,I hope you don't give up on your dreams,我希望你不要放弃自己的梦想,나는 당신이 당신의 꿈을 포기하지 않기를 바랍니다,🇫🇷,2025-05-04 23:52:11
+-10,男性,エジプト,,I want the summer vacation to be longer,夏休みが長くなってほしい,I want the summer vacation to be longer,我希望暑假更长,나는 여름 방학이 더 길기를 원합니다,🇪🇬,2025-05-04 23:52:11
+70-,女性,パプアニューギニア,,I hope that technical problems will be resolved soon,技術的な問題が早く解決しますように,I hope that technical problems will be resolved soon,我希望技术问题能尽快解决,기술적 문제가 곧 해결되기를 바랍니다,🇵🇬,2025-05-04 23:52:11
+-10,女性,日本,秋田県,お友だちがずっと仲良くしてくれますように,お友だちがずっと仲良くしてくれますように,I hope my friends will always be friends,我希望我的朋友永远是朋友,내 친구들이 항상 친구가되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,石川県,感情の波が穏やかになりますように,感情の波が穏やかになりますように,May the waves of emotion be calm,愿情感浪潮保持平静,감정의 파도가 침착 해 지길 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,オランダ,,I hope you will discover new learning,新しい学びに出会えますように,I hope you will discover new learning,希望您能发现新的学习,새로운 학습을 발견하시기 바랍니다,🇳🇱,2025-05-04 23:52:11
+70-,女性,日本,徳島県,家族旅行で最高の思い出が作れますように,家族旅行で最高の思い出が作れますように,I hope you can make the best memories on your family trip,希望您能在家庭旅行中留下最好的回忆,가족 여행에서 최고의 추억을 만들 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,コロンビア,,Espero que puedas pasar tu tiempo en la escuela en paz,学校内で安心して過ごせますように,I hope you can spend your time at school in peace,我希望你能和平学校度过,학교에서 평화롭게 시간을 보낼 수 있기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+21-30,男性,アメリカ合衆国,,I hope your student life will be memorable,学生生活が思い出深いものになりますように,I hope your student life will be memorable,希望您的学生生活会令人难忘,학생의 삶이 기억에 남기를 바랍니다,🇺🇸,2025-05-04 23:52:11
+21-30,女性,日本,岡山県,子ども向けに科学を楽しく教える教室を開けますように,子ども向けに科学を楽しく教える教室を開けますように,I hope we can open a classroom that teaches science for children in a fun way.,我希望我们可以开设一个教室，以有趣的方式教授儿童科学。,나는 우리가 아이들을위한 과학을 재미있는 방식으로 가르치는 교실을 열 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,フランス,,J'espère que vous deviendrez un joueur de relais à la journée sportive,運動会でリレーの選手になれますように,I hope you will become a relay player at the sports day,希望您在运动日成为接力运动员,스포츠 데이에 릴레이 플레이어가 되길 바랍니다.,🇫🇷,2025-05-04 23:52:11
+70-,男性,イギリス,,I hope that cooperation between departments will be strengthened,部署間の連携が強化されますように,I hope that cooperation between departments will be strengthened,我希望部门之间的合作将得到加强,부서 간 협력이 강화되기를 바랍니다,🇬🇧,2025-05-04 23:52:11
+21-30,男性,日本,山形県,伝説的なサッカーチームの一員になれますように,伝説的なサッカーチームの一員になれますように,I hope you become part of the legendary soccer team,希望您成为传奇足球队的一部分,전설적인 축구 팀의 일원이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,ホンジュラス,,I hope that our family will be prepared to prevent disasters,家族で災害に強い備えができますように,I hope that our family will be prepared to prevent disasters,我希望我们的家人准备预防灾难,우리 가족이 재난을 예방할 준비가되기를 바랍니다.,🇭🇳,2025-05-04 23:52:11
+-10,男性,中国,,我希望我在测试中得到100分,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,女性,ガーナ,,I hope you will be involved in restoring historic buildings,歴史的建造物の修復に携われますように,I hope you will be involved in restoring historic buildings.,希望您能参与恢复历史建筑。,역사적인 건물을 복원하는 데 참여하기를 바랍니다.,🇬🇭,2025-05-04 23:52:11
+41-50,男性,日本,愛媛県,家族で趣味を楽しむ時間が増えますように,家族で趣味を楽しむ時間が増えますように,I hope you will have more time to enjoy your hobbies with your family,希望您有更多时间与家人一起享受您的爱好,가족과 함께 취미를 즐길 시간이 더 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,パナマ,,I hope you will be selected as the executive committee of the school festival,文化祭の実行委員に選ばれますように,I hope you will be selected as the executive committee of the school festival,希望您将被选为学校节日的执行委员会,학교 축제의 집행위원회로 선정되기를 바랍니다.,🇵🇦,2025-05-04 23:52:11
+61-70,女性,日本,岩手県,高齢者が安心して暮らせる支援が拡充しますように,高齢者が安心して暮らせる支援が拡充しますように,We hope that we will expand support so that the elderly can live in peace,我们希望我们能扩大支持，以便老年人可以和平生活,노인이 평화롭게 살 수 있도록 지원을 확대하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,群馬県,推しのライブチケットが当たりますように,推しのライブチケットが当たりますように,I hope you win a live ticket from my favorite,希望您从我最喜欢的,제가 가장 좋아하는 라이브 티켓을 얻었 으면 좋겠어요,🇯🇵,2025-05-04 23:52:11
+-10,男性,ホンジュラス,,I hope my friends will always be friends,お友だちがずっと仲良くしてくれますように,I hope my friends will always be friends,我希望我的朋友永远是朋友,내 친구들이 항상 친구가되기를 바랍니다,🇭🇳,2025-05-04 23:52:11
+31-40,男性,日本,埼玉県,感情の波が穏やかになりますように,感情の波が穏やかになりますように,May the waves of emotion be calm,愿情感浪潮保持平静,감정의 파도가 침착 해 지길 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,愛知県,地域の高齢化対策が進みますように,地域の高齢化対策が進みますように,I hope that measures to combat the aging of the community will progress,我希望与社区老化的措施能够进步,지역 사회의 노화와 싸우는 조치가 진행되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,ウルグアイ,,I hope everyone gets along well,みんな仲良くなりますように,I hope everyone gets along well,我希望每个人都相处得很好,모두가 잘 지내길 바랍니다,🇺🇾,2025-05-04 23:52:11
+70-,女性,ウルグアイ,,I hope that the policy of accepting immigration proceeds smoothly,移民受け入れ政策が円滑に進みますように,I hope that the policy of accepting immigration proceeds smoothly,我希望接受移民的政策顺利进行,이민을 수락하는 정책이 순조롭게 진행되기를 바랍니다.,🇺🇾,2025-05-04 23:52:11
+31-40,男性,中国,,希望您不要陷入过去的错误,過去の失敗に囚われないようになりますように,I hope you don't get caught up in past mistakes,希望您不要陷入过去的错误,과거의 실수에 빠지지 않기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+11-20,女性,韓国,,좋아하는 선생님이 당신을 찬양하기를 바랍니다,好きな先生に褒められますように,I hope your favorite teacher will praise you,我希望你最喜欢的老师会赞美你,좋아하는 선생님이 당신을 찬양하기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+-10,男性,日本,鹿児島県,みんな仲良くなりますように,みんな仲良くなりますように,I hope everyone gets along well,我希望每个人都相处得很好,모두가 잘 지내길 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,宮城県,家族で自然と触れ合う時間が持てますように,家族で自然と触れ合う時間が持てますように,I hope that the family will have time to interact with nature,我希望这个家庭有时间与大自然互动,가족이 자연과 상호 작용할 시간이 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,回答しない,日本,福島県,笑顔の時間が増えますように,笑顔の時間が増えますように,I hope you have more time to smile,我希望你有更多的微笑,나는 당신이 웃을 시간이 더 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,韓国,,직장에서의 관계가 향상되기를 바랍니다,職場の人間関係が改善しますように,I hope that the relationships at work will improve,我希望工作中的关系会有所改善,직장에서의 관계가 향상되기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+51-60,男性,イギリス,,I hope that technical debts will be resolved,技術的負債が解消されますように,I hope that technical debts will be resolved,我希望技术债务将得到解决,기술 부채가 해결되기를 바랍니다,🇬🇧,2025-05-04 23:52:11
+70-,女性,スウェーデン,,I hope my relationship with my parents improves,親との関係がよくなりますように,I hope my relationship with my parents improves,我希望我与父母的关系有所改善,부모님과의 관계가 향상되기를 바랍니다,🇸🇪,2025-05-04 23:52:11
+41-50,女性,スウェーデン,,I hope that more dinner time will be spent with family around food,家族で料理を囲む夕食の時間が増えますように,I hope that more dinner time will be spent with family around food,我希望将更多的晚餐时间与家人一起度过,나는 더 많은 저녁 시간이 음식 주위에 가족과 함께 보낼 수 있기를 바랍니다.,🇸🇪,2025-05-04 23:52:11
+21-30,女性,日本,京都府,地球温暖化の影響が緩和されますように,地球温暖化の影響が緩和されますように,I hope that the effects of global warming will be reduced,我希望全球变暖的影响将减少,지구 온난화의 영향이 줄어들기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,長崎県,俳優として活躍できますように,俳優として活躍できますように,I hope you can work as an actor,我希望你能作为演员工作,배우로 일할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,岡山県,地域のスポーツ大会が成功しますように,地域のスポーツ大会が成功しますように,I hope that local sports competitions will be successful,我希望当地的体育比赛将取得成功,지역 스포츠 대회가 성공하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,中国,,我希望该地区有更多社交空间,地域内の交流スペースが増えますように,I hope that more social spaces will be available in the area,我希望该地区有更多社交空间,이 지역에서 더 많은 사회적 공간을 이용할 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+21-30,男性,日本,佐賀県,家族みんなで笑い合う機会が増えますように,家族みんなで笑い合う機会が増えますように,I hope that the whole family will have more opportunities to laugh together,我希望整个家庭将有更多的机会一起笑,온 가족이 함께 웃을 수있는 더 많은 기회가 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,女性,ジャマイカ,,I hope that renewable energy will become the mainstream worldwide,世界全体で再生可能エネルギーが主流になりますように,I hope that renewable energy will become the mainstream worldwide,我希望可再生能源将成为全球主流,재생 에너지가 전 세계적으로 주류가되기를 바랍니다.,🇯🇲,2025-05-04 23:52:11
+-10,女性,日本,長崎県,雨の日でも教室で楽しく遊べますように,雨の日でも教室で楽しく遊べますように,Hope you can have fun playing in the classroom even on rainy days,希望即使在下雨天，您也可以在课堂上玩得开心,비오는 날에도 교실에서 재미있게 놀 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,山口県,家族で旅行に行けますように,家族で旅行に行けますように,I hope you can go on a trip with your family,我希望你能和家人一起旅行,나는 당신이 당신의 가족과 함께 여행 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,日本,兵庫県,世界中で芸術が花開きますように,世界中で芸術が花開きますように,May art blossom all over the world,愿世界各地的艺术开花,전 세계에서 예술이 꽃을 피울 수 있습니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,イタリア,,I hope you can go to work or school every day,毎日元気に仕事や学校に行けますように,I hope you can go to work or school every day,希望您每天都能上班或上学,매일 직장이나 학교에 갈 수 있기를 바랍니다.,🇮🇹,2025-05-04 23:52:11
+51-60,回答しない,トルコ,,I hope you can meet your family members who live separately on a regular basis,離れて暮らす家族と定期的に会えますように,I hope you can meet your family members who live separately on a regular basis,希望您能与您的家人定期见面,정기적으로 별도로 사는 가족을 만날 수 있기를 바랍니다.,🇹🇷,2025-05-04 23:52:11
+21-30,女性,日本,佐賀県,ツールの操作ミスが減りますように,ツールの操作ミスが減りますように,I hope that tool operation will be reduced,我希望该工具操作将减少,도구 작동이 줄어들기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,山口県,毎日給食がおかわり自由になりますように,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,韓国,,부자와 가난한 사람의 격차가 좁아 지길 바랍니다,貧富の差が縮まりますように,I hope the gap between rich and poor will be narrowed,我希望富人与穷人之间的差距将被缩小,부자와 가난한 사람의 격차가 좁아 지길 바랍니다.,🇰🇷,2025-05-04 23:52:11
+11-20,男性,日本,高知県,受験がうまくいきますように,受験がうまくいきますように,I hope the exams go well,我希望考试顺利,시험이 잘되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,回答しない,ガーナ,,I hope you will have more time to enjoy your hobbies with your family,家族で趣味を楽しむ時間が増えますように,I hope you will have more time to enjoy your hobbies with your family,希望您有更多时间与家人一起享受您的爱好,가족과 함께 취미를 즐길 시간이 더 있기를 바랍니다.,🇬🇭,2025-05-04 23:52:11
+61-70,男性,韓国,,과잉 작업이 완화되기를 바랍니다,業務過多が緩和されますように,I hope that over-work will be alleviated,我希望过度工作会得到缓解,과잉 작업이 완화되기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+51-60,女性,日本,富山県,チームの士気が向上しますように,チームの士気が向上しますように,I hope the team will improve morale,我希望团队能改善士气,팀이 사기를 향상시키기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,群馬県,家族が互いに支え合えますように,家族が互いに支え合えますように,I hope that our families can support each other,我希望我们的家人可以互相支持,나는 우리 가족이 서로를 지원할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,フィジー,,I hope it will be made into a film based on a real person,実在する人物をモデルに映画化されますように,I hope it will be made into a film based on a real person.,我希望它将制作成一个真正的人。,나는 그것이 실제 사람을 기반으로 한 영화로 만들어 지길 바랍니다.,🇫🇯,2025-05-04 23:52:11
+-10,女性,日本,福島県,学芸会で主役になれますように,学芸会で主役になれますように,I hope you will be the main character at the school festival,希望您能成为学校节的主角,학교 축제에서 주인공이 되길 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,日本,福島県,地域の自然が守られますように,地域の自然が守られますように,I hope that the nature of the area is protected,我希望该地区的性质受到保护,지역의 본질이 보호되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,南アフリカ,,I hope you can learn and grow from your mistakes,失敗から学び成長できますように,I hope you can learn and grow from your mistakes,希望您可以从错误中学习并成长,실수로 배우고 성장할 수 있기를 바랍니다.,🇿🇦,2025-05-04 23:52:11
+11-20,男性,チリ,,I hope you will continue to concentrate on studying at the test,テスト勉強の集中力が続きますように,I hope you will continue to concentrate on studying at the test,希望您将继续专注于考试中的学习,시험에서 공부하는 데 계속 집중하시기 바랍니다.,🇨🇱,2025-05-04 23:52:11
+11-20,男性,フィジー,,I hope that a new cafe will be opened on the school route,通学路にカフェが新しくできますように,I hope that a new cafe will be opened on the school route,我希望在学校路线上开设新咖啡馆,학교 경로에서 새로운 카페가 열리기를 바랍니다.,🇫🇯,2025-05-04 23:52:11
+31-40,回答しない,イギリス,,I hope that your bond with your brothers and sisters will deepen further,兄弟姉妹との絆がさらに深まりますように,I hope that your bond with your brothers and sisters will deepen further,我希望您与兄弟姐妹的联系将进一步加深,형제 자매와의 유대가 더 깊어 지길 바랍니다.,🇬🇧,2025-05-04 23:52:11
+41-50,女性,日本,滋賀県,自分のアイデアが評価されますように,自分のアイデアが評価されますように,I hope your ideas are appreciated,希望您的想法得到赞赏,당신의 아이디어가 감사하길 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,日本,秋田県,環境保護のノーベル賞を受賞できますように,環境保護のノーベル賞を受賞できますように,I hope you will win the Nobel Prize in Environmental Protection,希望您能赢得诺贝尔环境保护奖,환경 보호에서 노벨상을 수상하시기 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,オランダ,,I hope you will always be motivated to work,仕事へのモチベーションが常に高まりますように,I hope you will always be motivated to work,希望您永远有动力,나는 당신이 항상 일하도록 동기를 부여하기를 바랍니다,🇳🇱,2025-05-04 23:52:11
+70-,女性,中国,,我希望过度工作会得到缓解,業務過多が緩和されますように,I hope that over-work will be alleviated,我希望过度工作会得到缓解,과잉 작업이 완화되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+61-70,男性,日本,京都府,高齢者が安心して暮らせる支援が拡充しますように,高齢者が安心して暮らせる支援が拡充しますように,We hope that we will expand support so that the elderly can live in peace,我们希望我们能扩大支持，以便老年人可以和平生活,노인이 평화롭게 살 수 있도록 지원을 확대하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,回答しない,ホンジュラス,,I hope I get 100 points on the test,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇭🇳,2025-05-04 23:52:11
+31-40,男性,日本,和歌山県,絶望感が薄れ、希望を見いだせますように,絶望感が薄れ、希望を見いだせますように,May the sense of hope fade away and we can find hope,愿希望的感觉消失了，我们可以找到希望,희망의 감각이 사라지고 우리는 희망을 찾을 수 있습니다,🇯🇵,2025-05-04 23:52:11
+41-50,男性,日本,埼玉県,家族全員が毎日笑顔で過ごせますように,家族全員が毎日笑顔で過ごせますように,I hope that the whole family can spend every day with a smile,我希望整个家庭都能每天都带着微笑,온 가족이 매일 미소로 보낼 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,福島県,挑戦が成功しますように,挑戦が成功しますように,May the challenge be successful,愿挑战成功,도전이 성공하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,高知県,チームの負荷分散がうまくいきますように,チームの負荷分散がうまくいきますように,I hope that teams can balance their load well,我希望团队能够很好地平衡他们的负担,팀이 짐 균형을 잘 맞출 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,京都府,地域の自然が守られますように,地域の自然が守られますように,I hope that the nature of the area is protected,我希望该地区的性质受到保护,지역의 본질이 보호되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,徳島県,フレックスタイム制度が活用できますように,フレックスタイム制度が活用できますように,I hope that the flextime system can be utilized,我希望可以使用弹性系统,FlexTime 시스템이 활용 될 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,静岡県,良い出会いがありますように,良い出会いがありますように,I hope you have a good encounter,我希望你有一个很好的相遇,나는 당신이 좋은 만남이 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,韓国,,영어를 유창하게 말할 수 있기를 바랍니다,英語をペラペラに話せるようになりますように,I hope you can speak English fluently,我希望你能说流利的英语,영어를 유창하게 말할 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+41-50,男性,ドイツ,,"Ich hoffe, dass der kulturelle Austausch aktiv durchgeführt wird",文化交流が活発に行われますように,I hope that cultural exchanges will be carried out actively,我希望文化交流将积极进行,문화 교류가 적극적으로 수행되기를 바랍니다.,🇩🇪,2025-05-04 23:52:11
+61-70,男性,中国,,可能会在全国范围内传播区域振兴,地方創生が全国に波及しますように,May regional revitalization spread throughout the country,可能会在全国范围内传播区域振兴,지역 활성화가 전국에 퍼지기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,男性,ボリビア,,I hope that work style reforms will be steadily realized,働き方改革が着実に実現しますように,I hope that work style reforms will be steadily realized,我希望工作风格的改革将稳步实现,작업 스타일 개혁이 꾸준히 실현되기를 바랍니다.,🇧🇴,2025-05-04 23:52:11
+41-50,男性,日本,千葉県,夢をあきらめずに進めますように,夢をあきらめずに進めますように,I hope you don't give up on your dreams,我希望你不要放弃自己的梦想,나는 당신이 당신의 꿈을 포기하지 않기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,静岡県,若者のUターン・Iターンが活発になりますように,若者のUターン・Iターンが活発になりますように,I hope that young people have more active U-turns and I-turns,我希望年轻人有更多活跃的掉头和i-turns,젊은이들이 더 활발한 U 턴과 I 턴을하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,メキシコ,,Espero que sean reconocidos como chef en un restaurante superior,一流レストランでシェフとして認められますように,I hope you will be recognized as a chef at a top restaurant,希望您能在一家顶级餐厅被认可为厨师,나는 당신이 최고 레스토랑에서 요리사로 인정 받기를 바랍니다.,🇲🇽,2025-05-04 23:52:11
+70-,女性,日本,青森県,マイクロマネジメントがなくなりますように,マイクロマネジメントがなくなりますように,I hope micromanagement will disappear,我希望微管理会消失,소액 관리가 사라지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,ボリビア,,I hope you can challenge a new market,新しい市場に挑戦できますように,I hope you can challenge a new market,希望您能挑战新市场,새로운 시장에 도전 할 수 있기를 바랍니다,🇧🇴,2025-05-04 23:52:11
+21-30,女性,日本,福岡県,地元の学校と地域が連携できますように,地元の学校と地域が連携できますように,I hope local schools and local communities can work together,我希望当地的学校和当地社区可以一起合作,지역 학교와 지역 사회가 함께 일할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,回答しない,パラグアイ,,I hope that science education will be further enhanced,科学教育がさらに充実しますように,I hope that science education will be further enhanced,我希望科学教育将得到进一步增强,과학 교육이 더욱 강화되기를 바랍니다,🇵🇾,2025-05-04 23:52:11
+51-60,女性,日本,千葉県,残業が減り、自分の時間が増えますように,残業が減り、自分の時間が増えますように,I hope my overtime decreases and my time increases,我希望我的加时时间有所下降，时间增加,초과 근무가 줄어들고 시간이 증가하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,パナマ,,I hope you can connect with people without feeling alone,孤独感を感じず、人とつながれますように,I hope you can connect with people without feeling alone,我希望你能与人建立联系而不会感到一个人,혼자 느끼지 않고 사람들과 연결할 수 있기를 바랍니다.,🇵🇦,2025-05-04 23:52:11
+11-20,男性,中国,,希望您在我的兼职工作中通过面试,バイト先の面接に受かりますように,I hope you pass the interview at my part-time job,希望您在我的兼职工作中通过面试,내 파트 타임 직장에서 인터뷰를 통과하시기 바랍니다.,🇨🇳,2025-05-04 23:52:11
+11-20,男性,パプアニューギニア,,I hope that all new members of the club will be cute/cool,部活の新入部員がかわいい／かっこいい人ばかりになりますように,I hope that all new members of the club will be cute/cool,我希望俱乐部的所有新成员都会很可爱/很酷,클럽의 모든 신입 회원이 귀엽고 시원하기를 바랍니다.,🇵🇬,2025-05-04 23:52:11
+41-50,女性,日本,北海道,いじめがなくなりますように,いじめがなくなりますように,I hope there will be no bullying,我希望不会有欺凌,괴롭힘이 없기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,中国,,我希望你开自己的商店,自分のお店を開けますように,I hope you open your own shop,我希望你开自己的商店,나는 당신이 당신의 가게를 열기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+-10,女性,パラグアイ,,I hope my homework is gone,宿題がなくなりますように,I hope my homework is gone,我希望我的作业不见了,내 숙제가 사라지기를 바랍니다,🇵🇾,2025-05-04 23:52:11
+41-50,女性,中国,,希望你能写得好,論文がうまく書けますように,I hope you can write your paper well,希望你能写得好,종이를 잘 쓸 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+51-60,男性,韓国,,일본 과학 기술이 더 발전하기를 바랍니다,日本の科学技術がさらに発展しますように,I hope that Japanese science and technology will develop further,我希望日本科学技术能够进一步发展,일본 과학 기술이 더 발전하기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,女性,韓国,,나는 당신의 노래가 영화의 주제가로 선정되기를 바랍니다,自分の楽曲が映画の主題歌に選ばれますように,I hope your song will be chosen as the theme song for the movie,我希望您的歌将被选为电影的主题曲,나는 당신의 노래가 영화의 주제가로 선정되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,男性,日本,新潟県,世界一周旅行を無事に達成できますように,世界一周旅行を無事に達成できますように,I hope you can safely complete your journey around the world,希望您可以安全地完成世界各地的旅程,전 세계 여행을 안전하게 완성 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,男性,韓国,,산림 보존 프로젝트를 시작할 수 있기를 바랍니다,森林を保護するプロジェクトを立ち上げられますように,I hope you can launch a forest conservation project,希望您可以启动一个森林保护项目,산림 보존 프로젝트를 시작할 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+31-40,女性,中国,,希望您能获得稳定的收入,安定した収入が得られますように,I hope you will earn a stable income,希望您能获得稳定的收入,나는 당신이 안정적인 소득을 얻기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+31-40,女性,ドミニカ共和国,,I hope you can design and build your own ideal home,理想の家を自分で設計して建てられますように,I hope you can design and build your own ideal home.,希望您可以设计和建造自己的理想住所。,나는 당신이 자신의 이상적인 집을 디자인하고 만들 수 있기를 바랍니다.,🇩🇴,2025-05-04 23:52:11
+51-60,女性,日本,福岡県,国際協力が新たな発展を生みますように,国際協力が新たな発展を生みますように,May international cooperation create new developments,愿国际合作创造新的发展,국제 협력이 새로운 발전을 만들 수 있습니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,福島県,業務過多が緩和されますように,業務過多が緩和されますように,I hope that over-work will be alleviated,我希望过度工作会得到缓解,과잉 작업이 완화되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,ウルグアイ,,I hope you can learn and grow from your mistakes,失敗から学び成長できますように,I hope you can learn and grow from your mistakes,希望您可以从错误中学习并成长,실수로 배우고 성장할 수 있기를 바랍니다.,🇺🇾,2025-05-04 23:52:11
+70-,女性,ジャマイカ,,I hope that the problem of budget shortages will be resolved,予算不足の問題が解消しますように,I hope that the problem of budget shortages will be resolved,我希望预算短缺问题将得到解决,예산 부족 문제가 해결되기를 바랍니다.,🇯🇲,2025-05-04 23:52:11
+11-20,女性,日本,愛媛県,テスト勉強の集中力が続きますように,テスト勉強の集中力が続きますように,I hope you will continue to concentrate on studying at the test,希望您将继续专注于考试中的学习,시험에서 공부하는 데 계속 집중하시기 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,トルコ,,May art blossom all over the world,世界中で芸術が花開きますように,May art blossom all over the world,愿世界各地的艺术开花,전 세계에서 예술이 꽃을 피울 수 있습니다,🇹🇷,2025-05-04 23:52:11
+31-40,男性,日本,香川県,高齢化対策が効果的に進みますように,高齢化対策が効果的に進みますように,I hope that measures to combat aging will be effective,我希望对抗衰老的措施将有效,노화와 싸우기위한 조치가 효과적이기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,鹿児島県,雨の日に学校が休みになりますように,雨の日に学校が休みになりますように,I hope school will be closed on a rainy day,我希望学校将在下雨天关闭,비오는 날에 학교가 문을 닫기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,静岡県,海外支社で活躍できますように,海外支社で活躍できますように,I hope you can work at overseas branches,希望您可以在海外分支机构工作,해외 지점에서 일할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,岡山県,希望のポジションで昇進できますように,希望のポジションで昇進できますように,I hope you can get promoted in your desired position,希望您能在您期望的职位上得到晋升,원하는 위치에서 승진 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,回答しない,中国,,希望您能成为体育课上最好的,体育の授業で一番になれますように,I hope you will be the best in physical education classes,希望您能成为体育课上最好的,나는 당신이 체육 수업에서 최고가되기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+-10,男性,日本,岡山県,給食がおかわり自由になりますように,給食がおかわり自由になりますように,I hope that you can have free refills for school lunches,希望您可以免费提供学校午餐,나는 당신이 학교 점심을 위해 무료 리필을 가질 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,回答しない,オーストラリア,,I hope you will be the main character at the school festival,学芸会で主役になれますように,I hope you will be the main character at the school festival,希望您能成为学校节的主角,학교 축제에서 주인공이 되길 바랍니다.,🇦🇺,2025-05-04 23:52:11
+21-30,男性,フィジー,,I hope the documentation is improved,ドキュメント整備が進みますように,I hope the documentation is improved,我希望文件得到改善,문서가 개선되기를 바랍니다,🇫🇯,2025-05-04 23:52:11
+51-60,男性,韓国,,나는 당신이 마음의 평화를 가지고 있기를 바랍니다,心の余裕が持てますように,I hope you have peace of mind,我希望你放心,나는 당신이 마음의 평화를 가지고 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+-10,女性,中国,,我希望你成为YouTuber,YouTuberになれますように,I hope you become a YouTuber,我希望你成为YouTuber,나는 당신이 YouTuber가되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+31-40,女性,日本,奈良県,国際協力が新たな発展を生みますように,国際協力が新たな発展を生みますように,May international cooperation create new developments,愿国际合作创造新的发展,국제 협력이 새로운 발전을 만들 수 있습니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,南アフリカ,,I hope that local cultural courses will be active,地域での文化講座が活発になりますように,I hope that local cultural courses will be active,我希望当地的文化课程将活跃,지역 문화 과정이 활발 해지기를 바랍니다,🇿🇦,2025-05-04 23:52:11
+-10,女性,韓国,,새 자전거를 살 수 있기를 바랍니다,新しい自転車が買ってもらえますように,I hope you can buy a new bike,希望您可以买一辆新自行车,새 자전거를 살 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+21-30,女性,日本,熊本県,野生動物が守られますように,野生動物が守られますように,May the wildlife be protected,愿野生动植物受到保护,야생 동물이 보호되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,女性,ベリーズ,,I hope that local child-rearing support will be enhanced,地域の子育て支援が充実しますように,I hope that local child-rearing support will be enhanced,我希望当地的育儿支持将得到增强,지역 보육 지원이 향상되기를 바랍니다,🇧🇿,2025-05-04 23:52:11
+51-60,女性,ガーナ,,I hope you can be yourself and not compare yourself to others,他人と比較せず、自分らしくいられますように,I hope you can be yourself and not compare yourself to others,希望您能成为自己，不要将自己与他人相提并论,나는 당신이 자신이 될 수 있고 다른 사람과 자신을 비교하지 않기를 바랍니다.,🇬🇭,2025-05-04 23:52:11
+70-,男性,ウルグアイ,,I hope that the standard of living for the people will improve,国民の生活水準が向上しますように,I hope that the standard of living for the people will improve,我希望人民的生活水平将有所改善,나는 사람들을위한 생활 수준이 향상되기를 바랍니다.,🇺🇾,2025-05-04 23:52:11
+21-30,女性,ベトナム,,May gender equality be realized in all regions,男女平等が全ての地域で実現しますように,May gender equality be realized in all regions,可以在所有地区实现性别平等,모든 지역에서 남녀 평등이 실현 될 수 있습니다,🇻🇳,2025-05-04 23:52:11
+-10,男性,サウジアラビア,,I hope that you can have free refills for school lunches,給食がおかわり自由になりますように,I hope that you can have free refills for school lunches,希望您可以免费提供学校午餐,나는 당신이 학교 점심을 위해 무료 리필을 가질 수 있기를 바랍니다.,🇸🇦,2025-05-04 23:52:11
+51-60,回答しない,日本,山梨県,歴史的建造物の修復に携われますように,歴史的建造物の修復に携われますように,I hope you will be involved in restoring historic buildings.,希望您能参与恢复历史建筑。,역사적인 건물을 복원하는 데 참여하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,回答しない,ペルー,,I hope you can forgive yourself,自分を許せるようになりますように,I hope you can forgive yourself,我希望你能原谅自己,나는 당신이 자신을 용서할 수 있기를 바랍니다,🇵🇪,2025-05-04 23:52:11
+-10,男性,カナダ,,I hope you can play tag for a longer period of time in the schoolyard,校庭で鬼ごっこがもっと長く遊べますように,I hope you can play tag for a longer period of time in the schoolyard,希望您可以在校园里播放更长的时间,학교에서 더 오랜 시간 동안 태그를 할 수 있기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+21-30,女性,日本,秋田県,自分を肯定できるようになりますように,自分を肯定できるようになりますように,I hope you can affirm yourself,我希望你能肯定自己,나는 당신이 스스로를 확인할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,回答しない,日本,神奈川県,バイトがバレませんように,バイトがバレませんように,I hope my part-time job won't be discovered,我希望我的兼职工作不会被发现,내 파트 타임 직업이 발견되지 않기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,沖縄県,家族で趣味を楽しむ時間が増えますように,家族で趣味を楽しむ時間が増えますように,I hope you will have more time to enjoy your hobbies with your family,希望您有更多时间与家人一起享受您的爱好,가족과 함께 취미를 즐길 시간이 더 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,女性,南アフリカ,,May mindfulness become a habit,マインドフルネスが習慣になりますように,May mindfulness become a habit,愿正念成为一种习惯,마음 챙김이 습관이되기를 바랍니다,🇿🇦,2025-05-04 23:52:11
+61-70,回答しない,フィジー,,I hope you can spend your time at school in peace,学校内で安心して過ごせますように,I hope you can spend your time at school in peace,我希望你能和平学校度过,학교에서 평화롭게 시간을 보낼 수 있기를 바랍니다.,🇫🇯,2025-05-04 23:52:11
+21-30,男性,日本,栃木県,地域の防災訓練が充実しますように,地域の防災訓練が充実しますように,I hope that local disaster prevention drills will be enhanced,我希望当地的预防灾难训练将得到增强,지역 재난 예방 훈련이 향상되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,女性,中国,,我希望信息共享会很顺利,情報共有が円滑になりますように,I hope that information sharing will be smooth,我希望信息共享会很顺利,정보 공유가 원활하기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+70-,男性,日本,秋田県,国民の健康寿命が延びますように,国民の健康寿命が延びますように,I hope that the healthy life expectancy of the people will be extended,我希望人民的健康预期寿命会延长,사람들의 건강한 기대 수명이 확장되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,パラグアイ,,I hope that disaster prevention stockpiles are fully prepared,防災備蓄が十分に整いますように,I hope that disaster prevention stockpiles are fully prepared,我希望预防灾难的库存已经充分准备,재난 예방 비축이 완전히 준비되기를 바랍니다,🇵🇾,2025-05-04 23:52:11
+70-,回答しない,エチオピア,,I hope that the external network will expand,社外ネットワークが広がりますように,I hope that the external network will expand,我希望外部网络能够扩展,외부 네트워크가 확장되기를 바랍니다,🇪🇹,2025-05-04 23:52:11
+-10,回答しない,モロッコ,,I hope you become a YouTuber,YouTuberになれますように,I hope you become a YouTuber,我希望你成为YouTuber,나는 당신이 YouTuber가되기를 바랍니다,🇲🇦,2025-05-04 23:52:11
+31-40,女性,日本,山口県,食糧自給率が向上しますように,食糧自給率が向上しますように,I hope that food self-sufficiency will improve,我希望食物自给自足会有所改善,음식 자급 자족이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,岐阜県,宿題がすぐに終わりますように,宿題がすぐに終わりますように,I hope your homework is finished soon,希望您的作业很快完成,나는 당신의 숙제가 곧 끝나기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,女性,日本,鹿児島県,ノルマを達成できますように,ノルマを達成できますように,I hope we can meet the quota,我希望我们能满足配额,할당량을 충족시킬 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,熊本県,図書室で好きな本がいつも借りられますように,図書室で好きな本がいつも借りられますように,I hope you can always borrow your favorite books in the library,希望您总是可以在图书馆借您喜欢的书,도서관에서 항상 좋아하는 책을 빌릴 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,カナダ,,I hope your studies will be fun,勉強が楽しくなりますように,I hope your studies will be fun,希望您的学业会很有趣,나는 당신의 공부가 재미 있기를 바랍니다,🇨🇦,2025-05-04 23:52:11
+31-40,男性,南アフリカ,,I hope your song will be chosen as the theme song for the movie,自分の楽曲が映画の主題歌に選ばれますように,I hope your song will be chosen as the theme song for the movie,我希望您的歌将被选为电影的主题曲,나는 당신의 노래가 영화의 주제가로 선정되기를 바랍니다.,🇿🇦,2025-05-04 23:52:11
+31-40,女性,サモア,,I hope that extracurricular activities will be fulfilled,課外活動が充実しますように,I hope that extracurricular activities will be fulfilled,我希望课外活动能够完成,과외 활동이 충족되기를 바랍니다,🇼🇸,2025-05-04 23:52:11
+51-60,男性,サモア,,I hope you can find your favorite book in the library,図書館でお気に入りの本に出会えますように,I hope you can find your favorite book in the library,希望您能在图书馆找到自己喜欢的书,도서관에서 좋아하는 책을 찾을 수 있기를 바랍니다.,🇼🇸,2025-05-04 23:52:11
+61-70,男性,中国,,我希望环境污染将大大改善,環境汚染が大幅に改善しますように,I hope that environmental pollution will be greatly improved,我希望环境污染将大大改善,환경 오염이 크게 향상되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+11-20,男性,スペイン,,Espero que no llegues tarde a tu aula por la mañana,朝のホームルームに遅刻しませんように,I hope you're not late to your homeroom in the morning,希望您早上不要迟到,아침에 홈룸에 늦지 않았 으면 좋겠어요,🇪🇸,2025-05-04 23:52:11
+21-30,女性,チリ,,I hope that people around me can support my dreams,周りの人に夢を応援してもらえますように,I hope that people around me can support my dreams,我希望我周围的人能支持我的梦想,내 주변 사람들이 내 꿈을 지원할 수 있기를 바랍니다.,🇨🇱,2025-05-04 23:52:11
+-10,男性,タンザニア,,I hope we can have a snack party after school,放課後におやつパーティーができますように,I hope we can have a snack party after school,我希望我们放学后可以举办小吃聚会,방과 후 간식 파티를 가질 수 있기를 바랍니다.,🇹🇿,2025-05-04 23:52:11
+41-50,女性,日本,兵庫県,動物愛護が一層進みますように,動物愛護が一層進みますように,I hope animal welfare continues,我希望动物福利继续,동물 복지가 계속되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,宮崎県,毎日給食がおかわり自由になりますように,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,青森県,日本の科学技術がさらに発展しますように,日本の科学技術がさらに発展しますように,I hope that Japanese science and technology will develop further,我希望日本科学技术能够进一步发展,일본 과학 기술이 더 발전하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,エクアドル,,I hope you will become a relay player at the sports day,運動会でリレーの選手になれますように,I hope you will become a relay player at the sports day,希望您在运动日成为接力运动员,스포츠 데이에 릴레이 플레이어가 되길 바랍니다.,🇪🇨,2025-05-04 23:52:11
+21-30,女性,インドネシア,,I hope that the complaints will be handled smoothly,クレーム対応がスムーズになりますように,I hope that the complaints will be handled smoothly,我希望投诉将顺利处理,불만이 원활하게 처리되기를 바랍니다,🇮🇩,2025-05-04 23:52:11
+-10,男性,日本,山形県,夏休みが長くなってほしい,夏休みが長くなってほしい,I want the summer vacation to be longer,我希望暑假更长,나는 여름 방학이 더 길기를 원합니다,🇯🇵,2025-05-04 23:52:11
+11-20,女性,韓国,,나는 당신이 수업 대표가되기를 바랍니다,学級委員になれますように,I hope you become a class representative,我希望你成为班级代表,나는 당신이 수업 대표가되기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+11-20,女性,トルコ,,I hope you don't get a red mark on regular tests,定期テストで赤点をとりませんように,I hope you don't get a red mark on regular tests,希望您在常规测试中不会有红色标记,정기 테스트에서 빨간색 자국을 얻지 않기를 바랍니다.,🇹🇷,2025-05-04 23:52:11
+31-40,女性,日本,鳥取県,家族全員が毎日笑顔で過ごせますように,家族全員が毎日笑顔で過ごせますように,I hope that the whole family can spend every day with a smile,我希望整个家庭都能每天都带着微笑,온 가족이 매일 미소로 보낼 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,島根県,自習時間に集中できますように,自習時間に集中できますように,I hope you can concentrate on your own study time,希望您可以专注于自己的学习时间,나는 당신이 자신의 학습 시간에 집중할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,韓国,,난민이 안전하게 살 수있는 환경이 만들어지기를 바랍니다,難民が安全に暮らせる環境が整いますように,I hope that the environment is created where refugees can live safely,我希望在难民可以安全地生活的地方创造环境,난민이 안전하게 살 수있는 환경이 만들어지기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+41-50,女性,中国,,我希望我的内心不安的感觉能被清除,心のモヤモヤが晴れますように,I hope the uneasy feelings of my heart will be cleared,我希望我的内心不安的感觉能被清除,내 마음의 불안한 감정이 사라지기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,男性,ポーランド,,I hope you find a best friend,親友が見つかりますように,I hope you find a best friend,希望你能找到一个最好的朋友,나는 당신이 가장 친한 친구를 찾기를 바랍니다,🇵🇱,2025-05-04 23:52:11
+-10,女性,中国,,我希望每个人都相处得很好,みんな仲良くなりますように,I hope everyone gets along well,我希望每个人都相处得很好,모두가 잘 지내길 바랍니다,🇨🇳,2025-05-04 23:52:11
+-10,女性,チュニジア,,I hope you can get along well with your friends,友達と仲良くできますように,I hope you can get along well with your friends,希望您能和您的朋友相处融洽,친구들과 잘 지낼 수 있기를 바랍니다.,🇹🇳,2025-05-04 23:52:11
+21-30,回答しない,中国,,我希望工作场所安全健康,安全衛生が確保された職場になりますように,I hope that the workplace is safe and healthy,我希望工作场所安全健康,직장이 안전하고 건강하기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+51-60,女性,中国,,我希望信息共享会很顺利,情報共有が円滑になりますように,I hope that information sharing will be smooth,我希望信息共享会很顺利,정보 공유가 원활하기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+11-20,回答しない,グアテマラ,,I hope the exams go well,受験がうまくいきますように,I hope the exams go well,我希望考试顺利,시험이 잘되기를 바랍니다,🇬🇹,2025-05-04 23:52:11
+41-50,男性,日本,埼玉県,学友と切磋琢磨できますように,学友と切磋琢磨できますように,I hope you can compete with your schoolmates,希望您能与您的同学竞争,나는 당신이 당신의 학교 친구들과 경쟁 할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,神奈川県,海洋生物多様性が保全されますように,海洋生物多様性が保全されますように,May marine biodiversity be preserved,可以保留海洋生物多样性,해양 생물 다양성이 보존 될 수 있습니다,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,群馬県,先生にほめられますように,先生にほめられますように,I hope the teacher praises me,我希望老师赞美我,선생님이 저를 칭찬하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,イギリス,,I hope you can live with your pet for a long time,ペットと長く暮らせますように,I hope you can live with your pet for a long time,希望您能与宠物一起生活很长一段时间,나는 당신이 오랫동안 애완 동물과 함께 살 수 있기를 바랍니다.,🇬🇧,2025-05-04 23:52:11
+51-60,女性,トルコ,,I hope everyone can participate in the family event,家族イベントに全員が参加できますように,I hope everyone can participate in the family event,我希望每个人都可以参加家庭活动,모든 사람이 가족 행사에 참여할 수 있기를 바랍니다,🇹🇷,2025-05-04 23:52:11
+70-,女性,韓国,,과잉 작업이 완화되기를 바랍니다,業務過多が緩和されますように,I hope that over-work will be alleviated,我希望过度工作会得到缓解,과잉 작업이 완화되기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+61-70,回答しない,日本,高知県,焦りに駆られることが減りますように,焦りに駆られることが減りますように,I hope you will lessen your sense of impatience,希望您能减少耐心的感觉,나는 당신이 조바심을 줄이려 길 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,北海道,地域の防災訓練が充実しますように,地域の防災訓練が充実しますように,I hope that local disaster prevention drills will be enhanced,我希望当地的预防灾难训练将得到增强,지역 재난 예방 훈련이 향상되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,鳥取県,毎日おいしくごはんが食べられますように,毎日おいしくごはんが食べられますように,I hope you can eat delicious food every day,我希望你每天都能吃美味的食物,매일 맛있는 음식을 먹을 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,茨城県,家族で自然と触れ合う時間が持てますように,家族で自然と触れ合う時間が持てますように,I hope that the family will have time to interact with nature,我希望这个家庭有时间与大自然互动,가족이 자연과 상호 작용할 시간이 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,女性,中国,,我希望业务效率能提高,業務効率化が進みますように,I hope that business efficiency will improve,我希望业务效率能提高,비즈니스 효율성이 향상되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,男性,日本,青森県,伝説的なサッカーチームの一員になれますように,伝説的なサッカーチームの一員になれますように,I hope you become part of the legendary soccer team,希望您成为传奇足球队的一部分,전설적인 축구 팀의 일원이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,山口県,毎日給食がおかわり自由になりますように,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,ホンジュラス,,I hope it will be made into a film based on a real person,実在する人物をモデルに映画化されますように,I hope it will be made into a film based on a real person.,我希望它将制作成一个真正的人。,나는 그것이 실제 사람을 기반으로 한 영화로 만들어 지길 바랍니다.,🇭🇳,2025-05-04 23:52:11
+51-60,男性,日本,鳥取県,告白がうまくいきますように,告白がうまくいきますように,I hope the confession goes well,我希望坦白顺利,나는 고백이 잘되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,中国,,愿创伤愈合，心脏更轻,トラウマが癒え、心が軽くなりますように,May the trauma heal and the heart be lighter,愿创伤愈合，心脏更轻,외상 치유와 심장이 더 가벼워지기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+41-50,男性,ギリシャ,,Hopefully they can make their major debut as a rock band,ロックバンドとしてメジャーデビューできますように,Hopefully they can make their major debut as a rock band,希望他们能成为摇滚乐队的主要首次亮相,바라건대 그들은 록 밴드로 메이저 데뷔를 할 수 있기를 바랍니다.,🇬🇷,2025-05-04 23:52:11
+31-40,男性,日本,千葉県,実在する人物をモデルに映画化されますように,実在する人物をモデルに映画化されますように,I hope it will be made into a film based on a real person.,我希望它将制作成一个真正的人。,나는 그것이 실제 사람을 기반으로 한 영화로 만들어 지길 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,男性,トルコ,,I hope that a new cafe will be opened on the school route,通学路にカフェが新しくできますように,I hope that a new cafe will be opened on the school route,我希望在学校路线上开设新咖啡馆,학교 경로에서 새로운 카페가 열리기를 바랍니다.,🇹🇷,2025-05-04 23:52:11
+51-60,回答しない,カナダ,,I hope that local disaster prevention drills will be enhanced,地域の防災訓練が充実しますように,I hope that local disaster prevention drills will be enhanced,我希望当地的预防灾难训练将得到增强,지역 재난 예방 훈련이 향상되기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+51-60,男性,ウルグアイ,,I hope you can challenge a new market,新しい市場に挑戦できますように,I hope you can challenge a new market,希望您能挑战新市场,새로운 시장에 도전 할 수 있기를 바랍니다,🇺🇾,2025-05-04 23:52:11
+21-30,男性,日本,鳥取県,家族がそれぞれの夢を叶えられますように,家族がそれぞれの夢を叶えられますように,I hope that our families can make their dreams come true,我希望我们的家人能使他们的梦想成真,나는 우리 가족이 꿈을 이루게되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,コロンビア,,Espero que los materiales de reunión se preparen fácilmente,会議資料の準備が楽になりますように,I hope that meeting materials will be prepared easily,我希望会议材料会很容易准备,회의 자료가 쉽게 준비되기를 바랍니다,🇨🇦,2025-05-04 23:52:11
+70-,男性,日本,山口県,夜眠れない日が減りますように,夜眠れない日が減りますように,I hope there will be fewer days when I can't sleep at night,我希望我晚上无法入睡的日子会更少,나는 밤에 잠을 잘 수없는 날이 더 덜 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,日本,島根県,定時で帰宅できる習慣がつきますように,定時で帰宅できる習慣がつきますように,I hope you will develop the habit of getting home on time,希望您能养成准时回家的习惯,나는 당신이 제 시간에 집에 도착하는 습관을 개발하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,石川県,毎日給食がおかわり自由になりますように,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,ニュージーランド,,I hope you will be able to have free refills of lunches every day,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇳🇿,2025-05-04 23:52:11
+31-40,男性,日本,茨城県,国際大会の開催が成功しますように,国際大会の開催が成功しますように,I hope that the international conference will be successful,我希望国际会议将成功,국제 회의가 성공하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,日本,山梨県,地域の自然が守られますように,地域の自然が守られますように,I hope that the nature of the area is protected,我希望该地区的性质受到保护,지역의 본질이 보호되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,回答しない,韓国,,바라건대 대중 교통 서비스의 수가 증가합니다,公共交通の運行本数が増えますように,Hopefully the number of public transport services increases,希望公共交通服务的数量增加,바라건대 대중 교통 서비스의 수가 증가합니다,🇰🇷,2025-05-04 23:52:11
+70-,女性,日本,徳島県,地球というひとつの家族が調和を保てますように,地球というひとつの家族が調和を保てますように,May the Earth be in harmony,愿大地和谐,지구가 조화롭게되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,埼玉県,卒業後の進路が明確になりますように,卒業後の進路が明確になりますように,I hope that your career path after graduation will be clear,希望您毕业后的职业道路会很清楚,나는 졸업 후 당신의 경력 경로가 분명하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,大分県,理想のチームで働けますように,理想のチームで働けますように,I hope you can work in your ideal team,希望您能在理想的团队中工作,이상적인 팀에서 일할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,回答しない,日本,秋田県,少子化対策が成果を上げますように,少子化対策が成果を上げますように,I hope that measures to combat declining birthrates will improve results,我希望打击下降的出生率的措施将改善结果,생년월일 감소에 대한 조치가 결과를 향상시킬 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,兵庫県,プロジェクトが成功裏に完了しますように,プロジェクトが成功裏に完了しますように,I hope the project is completed successfully,我希望该项目成功完成,프로젝트가 성공적으로 완료되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,回答しない,日本,青森県,心のモヤモヤが晴れますように,心のモヤモヤが晴れますように,I hope the uneasy feelings of my heart will be cleared,我希望我的内心不安的感觉能被清除,내 마음의 불안한 감정이 사라지기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,韓国,,나는 우리가 새로운 약물 개발에 참여하고 많은 생명을 구할 수 있기를 바랍니다,新薬開発に参加して多くの命を救えますように,I hope that we can participate in new drug development and save many lives,我希望我们可以参加新药开发并挽救许多生命,나는 우리가 새로운 약물 개발에 참여하고 많은 생명을 구할 수 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+21-30,女性,日本,埼玉県,海外で新しいビジネスを立ち上げられますように,海外で新しいビジネスを立ち上げられますように,I hope you can start a new business overseas,希望您可以在海外开设一家新业务,해외에서 새로운 사업을 시작할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,福井県,海外留学できますように,海外留学できますように,I hope you can study abroad,我希望你可以出国学习,해외에서 공부할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,ドミニカ共和国,,I hope that we can respond flexibly to sudden changes in specifications,急な仕様変更に柔軟に対応できますように,I hope that we can respond flexibly to sudden changes in specifications.,我希望我们可以灵活地对规格突然变化的反应。,사양의 갑작스런 변화에 유연하게 반응 할 수 있기를 바랍니다.,🇩🇴,2025-05-04 23:52:11
+61-70,男性,日本,沖縄県,信頼できる友達ができますように,信頼できる友達ができますように,I hope you can make trustworthy friends,我希望你能结交可信赖的朋友,신뢰할 수있는 친구를 만들 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,韓国,,온 가족이 함께 웃을 수있는 더 많은 기회가 있기를 바랍니다,家族みんなで笑い合う機会が増えますように,I hope that the whole family will have more opportunities to laugh together,我希望整个家庭将有更多的机会一起笑,온 가족이 함께 웃을 수있는 더 많은 기회가 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,男性,日本,秋田県,自己理解が深まりますように,自己理解が深まりますように,I hope that my self-understanding will deepen,我希望我的自我理解会加深,내 자기 이해가 깊어 지길 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,山梨県,留学先で充実した経験ができますように,留学先で充実した経験ができますように,I hope you will have a fulfilling experience when studying abroad,希望您在出国留学时会有丰富的经历,해외에서 공부할 때 성취 된 경험이 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,秋田県,新しいスキルを迅速に習得できますように,新しいスキルを迅速に習得できますように,I hope you can quickly acquire new skills,希望您能快速获得新技能,새로운 기술을 빨리 얻을 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,福岡県,家族全員が新しいスキルを身につけられますように,家族全員が新しいスキルを身につけられますように,I hope that the whole family can acquire new skills,我希望整个家庭都能获得新技能,온 가족이 새로운 기술을 습득 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,回答しない,日本,山梨県,給食でカレーが毎週出ますように,給食でカレーが毎週出ますように,I hope curry will be served every week in school lunches,我希望咖喱每周都会在学校午餐,나는 학교 점심으로 매주 카레가 제공되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,千葉県,放課後におやつパーティーができますように,放課後におやつパーティーができますように,I hope we can have a snack party after school,我希望我们放学后可以举办小吃聚会,방과 후 간식 파티를 가질 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,日本,徳島県,独立が成功しますように,独立が成功しますように,May independence succeed,愿独立成功,독립이 성공할 수 있습니다,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,日本,兵庫県,世界一周できますように,世界一周できますように,I hope you can go around the world,我希望你能环游世界,나는 당신이 전 세계를 돌아 다닐 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,日本,鹿児島県,地域の自然が守られますように,地域の自然が守られますように,I hope that the nature of the area is protected,我希望该地区的性质受到保护,지역의 본질이 보호되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,男性,日本,山口県,勉強のやる気が出ますように,勉強のやる気が出ますように,I hope you will be motivated to study,我希望你会有动力学习,공부에 동기를 부여하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,愛媛県,告白がうまくいきますように,告白がうまくいきますように,I hope the confession goes well,我希望坦白顺利,나는 고백이 잘되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,中国,,我希望你的宠物买一只兔子,ペットにうさぎを買ってもらえますように,I hope your pet buys a rabbit,我希望你的宠物买一只兔子,애완 동물이 토끼를 사기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,男性,韓国,,나는 당신이 다치지 않고 일년 내내 보낼 수 있기를 바랍니다,怪我をせずに一年過ごせますように,I hope you can spend the whole year without getting hurt,我希望你能在不受伤的情况下度过一年,나는 당신이 다치지 않고 일년 내내 보낼 수 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,女性,日本,愛知県,安定した収入が得られますように,安定した収入が得られますように,I hope you will earn a stable income,希望您能获得稳定的收入,나는 당신이 안정적인 소득을 얻기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,ナイジェリア,,I hope you will be able to have free refills of lunches every day,毎日給食がおかわり自由になりますように,I hope you will be able to have free refills of lunches every day,希望您每天都能免费提供午餐的免费补充,매일 점심을 무료로 리필 할 수 있기를 바랍니다.,🇳🇬,2025-05-04 23:52:11
+-10,男性,韓国,,나는 학교 점심으로 매주 카레가 제공되기를 바랍니다,給食でカレーが毎週出ますように,I hope curry will be served every week in school lunches,我希望咖喱每周都会在学校午餐,나는 학교 점심으로 매주 카레가 제공되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+11-20,女性,日本,広島県,通学路にカフェが新しくできますように,通学路にカフェが新しくできますように,I hope that a new cafe will be opened on the school route,我希望在学校路线上开设新咖啡馆,학교 경로에서 새로운 카페가 열리기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,グアテマラ,,I hope that disaster prevention stockpiles are fully prepared,防災備蓄が十分に整いますように,I hope that disaster prevention stockpiles are fully prepared,我希望预防灾难的库存已经充分准备,재난 예방 비축이 완전히 준비되기를 바랍니다,🇬🇹,2025-05-04 23:52:11
+61-70,女性,アルゼンチン,,Que la sensación de esperanza se desvanezca y podamos encontrar esperanza,絶望感が薄れ、希望を見いだせますように,May the sense of hope fade away and we can find hope,愿希望的感觉消失了，我们可以找到希望,희망의 감각이 사라지고 우리는 희망을 찾을 수 있습니다,🇦🇷,2025-05-04 23:52:11
+51-60,男性,日本,愛知県,学会発表が大成功しますように,学会発表が大成功しますように,I hope the conference presentation will be a great success,我希望会议演讲将取得巨大的成功,컨퍼런스 프레젠테이션이 큰 성공이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,岡山県,テストでいい点が取れますように,テストでいい点が取れますように,I hope you get good points on the test,我希望你能在考试中得到好积分,시험에서 좋은 점을 얻으 셨기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,エジプト,,I hope you can work as an actor,俳優として活躍できますように,I hope you can work as an actor,我希望你能作为演员工作,배우로 일할 수 있기를 바랍니다,🇪🇬,2025-05-04 23:52:11
+61-70,男性,フランス,,J'espère que les sentiments mal à l'aise de mon cœur seront éliminés,心のモヤモヤが晴れますように,I hope the uneasy feelings of my heart will be cleared,我希望我的内心不安的感觉能被清除,내 마음의 불안한 감정이 사라지기를 바랍니다.,🇫🇷,2025-05-04 23:52:11
+31-40,女性,日本,長崎県,研究が順調に進みますように,研究が順調に進みますように,I hope your research progresses smoothly,希望您的研究顺利进行,귀하의 연구가 순조롭게 진행되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,日本,東京都,高齢化対策が効果的に進みますように,高齢化対策が効果的に進みますように,I hope that measures to combat aging will be effective,我希望对抗衰老的措施将有效,노화와 싸우기위한 조치가 효과적이기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,広島県,勉強が楽しくなりますように,勉強が楽しくなりますように,I hope your studies will be fun,希望您的学业会很有趣,나는 당신의 공부가 재미 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,奈良県,助けを求める勇気が持てますように,助けを求める勇気が持てますように,I hope you have the courage to seek help,希望您有勇气寻求帮助,도움을 구할 용기가 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,トルコ,,I hope curry will be served every week in school lunches,給食でカレーが毎週出ますように,I hope curry will be served every week in school lunches,我希望咖喱每周都会在学校午餐,나는 학교 점심으로 매주 카레가 제공되기를 바랍니다.,🇹🇷,2025-05-04 23:52:11
+31-40,女性,日本,和歌山県,集中力が続きますように,集中力が続きますように,I hope you continue to concentrate,我希望你继续集中精力,나는 당신이 계속 집중하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,福井県,有名になりますように,有名になりますように,I hope you become famous,我希望你成名,나는 당신이 유명 해지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,フランス,,J'espère que vous devenez un youtuber,YouTuberになれますように,I hope you become a YouTuber,我希望你成为YouTuber,나는 당신이 YouTuber가되기를 바랍니다,🇫🇷,2025-05-04 23:52:11
+11-20,男性,日本,山口県,朝のホームルームに遅刻しませんように,朝のホームルームに遅刻しませんように,I hope you're not late to your homeroom in the morning,希望您早上不要迟到,아침에 홈룸에 늦지 않았 으면 좋겠어요,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,秋田県,友達と仲良くできますように,友達と仲良くできますように,I hope you can get along well with your friends,希望您能和您的朋友相处融洽,친구들과 잘 지낼 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,女性,韓国,,나는 당신이 당신의 가족과 함께 여행 할 수 있기를 바랍니다,家族で旅行に行けますように,I hope you can go on a trip with your family,我希望你能和家人一起旅行,나는 당신이 당신의 가족과 함께 여행 할 수 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+51-60,女性,パナマ,,I hope that disaster recovery will be carried out quickly,災害復興が迅速に進められますように,I hope that disaster recovery will be carried out quickly,我希望灾难恢复会很快进行,재해 회복이 빠르게 수행되기를 바랍니다.,🇵🇦,2025-05-04 23:52:11
+31-40,男性,中国,,我希望过度工作会得到缓解,業務過多が緩和されますように,I hope that over-work will be alleviated,我希望过度工作会得到缓解,과잉 작업이 완화되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+41-50,男性,中国,,我希望家庭之间会有更少的误解,家族間のすれ違いが減りますように,I hope that there will be fewer misunderstandings between families,我希望家庭之间会有更少的误解,가족 사이에 오해가 줄어들기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+41-50,女性,日本,宮城県,失敗から学び成長できますように,失敗から学び成長できますように,I hope you can learn and grow from your mistakes,希望您可以从错误中学习并成长,실수로 배우고 성장할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,秋田県,消費税が公平に運用されますように,消費税が公平に運用されますように,I hope that consumption tax is fair,我希望消费税是公平的,소비세가 공정하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,中国,,希望您通过推出自己的品牌成功,自分だけのブランドを立ち上げて成功しますように,I hope you will be successful by launching your own brand,希望您通过推出自己的品牌成功,나만의 브랜드를 시작하여 성공하기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+61-70,女性,日本,高知県,地域での文化講座が活発になりますように,地域での文化講座が活発になりますように,I hope that local cultural courses will be active,我希望当地的文化课程将活跃,지역 문화 과정이 활발 해지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,新潟県,新しい自転車が買ってもらえますように,新しい自転車が買ってもらえますように,I hope you can buy a new bike,希望您可以买一辆新自行车,새 자전거를 살 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,鹿児島県,YouTuberになれますように,YouTuberになれますように,I hope you become a YouTuber,我希望你成为YouTuber,나는 당신이 YouTuber가되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,日本,栃木県,社内プレゼンが大成功しますように,社内プレゼンが大成功しますように,I hope your company presentation will be a great success,希望您的公司演讲将取得巨大的成功,회사 프레젠테이션이 큰 성공이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,鹿児島県,平和憲法が世界の模範になりますように,平和憲法が世界の模範になりますように,May the peace constitution be an example of the world,愿和平宪法是世界的一个例子,평화 헌법이 세상의 모범이되기를,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,茨城県,やりがいのある仕事に就けますように,やりがいのある仕事に就けますように,I hope you get a rewarding job,我希望你能得到一份有意义的工作,보람있는 직업을 갖기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,大分県,世界一周できますように,世界一周できますように,I hope you can go around the world,我希望你能环游世界,나는 당신이 전 세계를 돌아 다닐 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,群馬県,集中力が続きますように,集中力が続きますように,I hope you continue to concentrate,我希望你继续集中精力,나는 당신이 계속 집중하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,パナマ,,I hope you can overcome your shyness,人見知りを克服できますように,I hope you can overcome your shyness,我希望你能克服害羞,나는 당신이 당신의 수줍음을 극복 할 수 있기를 바랍니다,🇵🇦,2025-05-04 23:52:11
+70-,女性,中国,,希望您从您梦dream以求的公司那里得到工作,憧れの企業で内定をもらえますように,I hope you get a job offer from the company you've dreamed of,希望您从您梦dream以求的公司那里得到工作,당신이 꿈꾸던 회사로부터 구인을 받기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+51-60,女性,韓国,,일과 삶의 균형이 정확하기를 바랍니다,ワークライフバランスが整いますように,I hope that work-life balance is correct,我希望工作与生活平衡是正确的,일과 삶의 균형이 정확하기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+70-,女性,スウェーデン,,I hope you have more time to smile,笑顔の時間が増えますように,I hope you have more time to smile,我希望你有更多的微笑,나는 당신이 웃을 시간이 더 있기를 바랍니다,🇸🇪,2025-05-04 23:52:11
+-10,女性,日本,静岡県,夏休みが長くなってほしい,夏休みが長くなってほしい,I want the summer vacation to be longer,我希望暑假更长,나는 여름 방학이 더 길기를 원합니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,三重県,昇進できますように,昇進できますように,I hope you can get promoted,我希望你能得到晋升,나는 당신이 승진 할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,中国,,我希望你能赢得大型比赛,大きな大会で優勝できますように,I hope you can win a big tournament,我希望你能赢得大型比赛,큰 토너먼트에서 이길 수 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+21-30,女性,中国,,我希望会议材料会很容易准备,会議資料の準備が楽になりますように,I hope that meeting materials will be prepared easily,我希望会议材料会很容易准备,회의 자료가 쉽게 준비되기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+-10,女性,ドイツ,,"Ich möchte, dass die Sommerferien länger sein",夏休みが長くなってほしい,I want the summer vacation to be longer,我希望暑假更长,나는 여름 방학이 더 길기를 원합니다,🇩🇪,2025-05-04 23:52:11
+70-,女性,日本,三重県,親友が見つかりますように,親友が見つかりますように,I hope you find a best friend,希望你能找到一个最好的朋友,나는 당신이 가장 친한 친구를 찾기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,栃木県,フレックスタイム制度が活用できますように,フレックスタイム制度が活用できますように,I hope that the flextime system can be utilized,我希望可以使用弹性系统,FlexTime 시스템이 활용 될 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,静岡県,悲しみを受け入れ、前に進めますように,悲しみを受け入れ、前に進めますように,May I accept my sadness and move forward,我可以接受我的悲伤并前进吗,슬픔을 받아들이고 앞으로 나아갈 수 있습니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,広島県,会議資料の準備が楽になりますように,会議資料の準備が楽になりますように,I hope that meeting materials will be prepared easily,我希望会议材料会很容易准备,회의 자료가 쉽게 준비되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,韓国,,갈등이 끝나고 평화가 확대되기를 바랍니다,紛争が終結し平和が広がりますように,May the conflict end and peace expand,愿冲突结束和和平扩大,갈등이 끝나고 평화가 확대되기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+51-60,男性,中国,,我希望能确保稳定的水资源供应,水資源の安定供給が確保されますように,I hope that a stable supply of water resources is ensured,我希望能确保稳定的水资源供应,안정적인 수자원 공급이 보장되기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+21-30,女性,日本,千葉県,セキュリティリスクが低減しますように,セキュリティリスクが低減しますように,I hope that security risks will be reduced,我希望安全风险将降低,보안 위험이 줄어들기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,フィジー,,I hope the confession goes well,告白がうまくいきますように,I hope the confession goes well,我希望坦白顺利,나는 고백이 잘되기를 바랍니다,🇫🇯,2025-05-04 23:52:11
+51-60,男性,インドネシア,,I hope you can find your favorite book in the library,図書館でお気に入りの本に出会えますように,I hope you can find your favorite book in the library,希望您能在图书馆找到自己喜欢的书,도서관에서 좋아하는 책을 찾을 수 있기를 바랍니다.,🇮🇩,2025-05-04 23:52:11
+-10,女性,日本,石川県,放課後におやつパーティーができますように,放課後におやつパーティーができますように,I hope we can have a snack party after school,我希望我们放学后可以举办小吃聚会,방과 후 간식 파티를 가질 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,宮城県,海外で仕事ができますように,海外で仕事ができますように,I hope you can work overseas,我希望你能在海外工作,해외에서 일할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,和歌山県,新しい自転車が買ってもらえますように,新しい自転車が買ってもらえますように,I hope you can buy a new bike,希望您可以买一辆新自行车,새 자전거를 살 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,徳島県,翻訳家として有名な本を訳せますように,翻訳家として有名な本を訳せますように,I hope I can translate a book that is famous as a translator,我希望我能翻译一本书，以翻译而闻名,번역가로 유명한 책을 번역 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,北海道,スマホのゲームでレアキャラが出ますように,スマホのゲームでレアキャラが出ますように,I hope rare characters appear in smartphone games,我希望稀有角色出现在智能手机游戏中,스마트 폰 게임에 드문 캐릭터가 나타나기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,男性,日本,岡山県,地域の子育て支援が充実しますように,地域の子育て支援が充実しますように,I hope that local child-rearing support will be enhanced,我希望当地的育儿支持将得到增强,지역 보육 지원이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,大阪府,アイデア会議が盛り上がりますように,アイデア会議が盛り上がりますように,I hope the idea meeting will be lively,我希望这个想法会很活跃,아이디어 회의가 활기차게되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,女性,日本,神奈川県,好きな先生に褒められますように,好きな先生に褒められますように,I hope your favorite teacher will praise you,我希望你最喜欢的老师会赞美你,좋아하는 선생님이 당신을 찬양하기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+11-20,回答しない,ドミニカ共和国,,I hope that all new members of the club will be cute/cool,部活の新入部員がかわいい／かっこいい人ばかりになりますように,I hope that all new members of the club will be cute/cool,我希望俱乐部的所有新成员都会很可爱/很酷,클럽의 모든 신입 회원이 귀엽고 시원하기를 바랍니다.,🇩🇴,2025-05-04 23:52:11
+51-60,女性,日本,宮城県,リモートワークの環境が安定しますように,リモートワークの環境が安定しますように,I hope that the environment for remote work will be stable,我希望远程工作的环境将是稳定的,원격 작업 환경이 안정적이기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,男性,中国,,我希望你能与人建立联系而不会感到一个人,孤独感を感じず、人とつながれますように,I hope you can connect with people without feeling alone,我希望你能与人建立联系而不会感到一个人,혼자 느끼지 않고 사람들과 연결할 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,女性,日本,山口県,地域での文化講座が活発になりますように,地域での文化講座が活発になりますように,I hope that local cultural courses will be active,我希望当地的文化课程将活跃,지역 문화 과정이 활발 해지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,ニュージーランド,,I hope you have peace of mind,心の余裕が持てますように,I hope you have peace of mind,我希望你放心,나는 당신이 마음의 평화를 가지고 있기를 바랍니다,🇳🇿,2025-05-04 23:52:11
+-10,女性,日本,岡山県,テストで100点取れますように,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,千葉県,水資源の安定供給が確保されますように,水資源の安定供給が確保されますように,I hope that a stable supply of water resources is ensured,我希望能确保稳定的水资源供应,안정적인 수자원 공급이 보장되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,パラグアイ,,I hope we can have a snack party after school,放課後におやつパーティーができますように,I hope we can have a snack party after school,我希望我们放学后可以举办小吃聚会,방과 후 간식 파티를 가질 수 있기를 바랍니다.,🇵🇾,2025-05-04 23:52:11
+31-40,女性,カナダ,,I hope that the charm of the region will be conveyed,地域の魅力が発信されますように,I hope that the charm of the region will be conveyed,我希望该地区的魅力将被传达,이 지역의 매력이 전달되기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+-10,回答しない,ケニア,,I hope that haunted houses will no longer be scared,おばけ屋敷がこわくなくなりますように,I hope the ghost house will no longer be scary,我希望幽灵屋不会再可怕,유령 집이 더 이상 무섭지 않기를 바랍니다.,🇰🇪,2025-05-04 23:52:11
+51-60,男性,日本,宮城県,結婚できますように,結婚できますように,I hope you can get married,我希望你能结婚,결혼 할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,広島県,文化交流が活発に行われますように,文化交流が活発に行われますように,I hope that cultural exchanges will be carried out actively,我希望文化交流将积极进行,문화 교류가 적극적으로 수행되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,回答しない,韓国,,실험 데이터가 원하는대로 얻을 수 있기를 바랍니다,実験データが思い通りに取れますように,I hope that the experimental data can be obtained as desired,我希望可以根据需要获得实验数据,실험 데이터가 원하는대로 얻을 수 있기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+31-40,男性,コロンビア,,Espero que puedas hacer los mejores recuerdos en tu viaje familiar,家族旅行で最高の思い出が作れますように,I hope you can make the best memories on your family trip,希望您能在家庭旅行中留下最好的回忆,가족 여행에서 최고의 추억을 만들 수 있기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+70-,回答しない,中国,,希望您能发现新的学习,新しい学びに出会えますように,I hope you will discover new learning,希望您能发现新的学习,새로운 학습을 발견하시기 바랍니다,🇨🇳,2025-05-04 23:52:11
+70-,女性,中国,,希望您有机会进步您的职业生涯,キャリアアップのチャンスが来ますように,I hope you have a chance to advance your career,希望您有机会进步您的职业生涯,나는 당신이 당신의 경력을 발전시킬 기회가 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,男性,日本,神奈川県,プレゼンがうまくいきますように,プレゼンがうまくいきますように,I hope the presentation goes well,我希望演讲顺利,프레젠테이션이 잘되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,ポーランド,,I hope that young people have more active U-turns and I-turns,若者のUターン・Iターンが活発になりますように,I hope that young people have more active U-turns and I-turns,我希望年轻人有更多活跃的掉头和i-turns,젊은이들이 더 활발한 U 턴과 I 턴을하기를 바랍니다.,🇵🇱,2025-05-04 23:52:11
+21-30,女性,日本,青森県,ロックバンドとしてメジャーデビューできますように,ロックバンドとしてメジャーデビューできますように,Hopefully they can make their major debut as a rock band,希望他们能成为摇滚乐队的主要首次亮相,바라건대 그들은 록 밴드로 메이저 데뷔를 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,男性,日本,大阪府,お友だちがずっと仲良くしてくれますように,お友だちがずっと仲良くしてくれますように,I hope my friends will always be friends,我希望我的朋友永远是朋友,내 친구들이 항상 친구가되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,長崎県,海外で新しいビジネスを立ち上げられますように,海外で新しいビジネスを立ち上げられますように,I hope you can start a new business overseas,希望您可以在海外开设一家新业务,해외에서 새로운 사업을 시작할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+-10,男性,中国,,我希望每个人都相处得很好,みんな仲良くなりますように,I hope everyone gets along well,我希望每个人都相处得很好,모두가 잘 지내길 바랍니다,🇨🇳,2025-05-04 23:52:11
+70-,女性,日本,鳥取県,グローバルヘルスが向上しますように,グローバルヘルスが向上しますように,I hope that global health will improve,我希望全球健康能改善,글로벌 건강이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,岡山県,修学旅行が思い出深いものになりますように,修学旅行が思い出深いものになりますように,I hope your school trip will be memorable,希望您的学校旅行会令人难忘,학교 여행이 기억에 남기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,女性,インドネシア,,I hope you can work overseas,海外で仕事ができますように,I hope you can work overseas,我希望你能在海外工作,해외에서 일할 수 있기를 바랍니다,🇮🇩,2025-05-04 23:52:11
+21-30,回答しない,日本,大阪府,森林を保護するプロジェクトを立ち上げられますように,森林を保護するプロジェクトを立ち上げられますように,I hope you can launch a forest conservation project,希望您可以启动一个森林保护项目,산림 보존 프로젝트를 시작할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,回答しない,中国,,我希望您的商务旅行有意义,出張が有意義なものになりますように,I hope that your business trip will be meaningful,我希望您的商务旅行有意义,나는 당신의 출장이 의미가 있기를 바랍니다,🇨🇳,2025-05-04 23:52:11
+61-70,女性,日本,宮崎県,ツールの操作ミスが減りますように,ツールの操作ミスが減りますように,I hope that tool operation will be reduced,我希望该工具操作将减少,도구 작동이 줄어들기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,兵庫県,定時で帰宅できる習慣がつきますように,定時で帰宅できる習慣がつきますように,I hope you will develop the habit of getting home on time,希望您能养成准时回家的习惯,나는 당신이 제 시간에 집에 도착하는 습관을 개발하기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,女性,中国,,希望您的想法得到赞赏,自分のアイデアが評価されますように,I hope your ideas are appreciated,希望您的想法得到赞赏,당신의 아이디어가 감사하길 바랍니다,🇨🇳,2025-05-04 23:52:11
+51-60,男性,日本,広島県,宇宙に行けますように,宇宙に行けますように,I hope I can go to space,我希望我能去太空,우주에 갈 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,和歌山県,家族の誰もが安心して話せる時間が持てますように,家族の誰もが安心して話せる時間が持てますように,I hope everyone in the family can have time to talk with peace of mind,我希望家庭中的每个人都可以有时间与心灵安心交谈,나는 가족의 모든 사람들이 마음의 평화로 이야기 할 시간을 가질 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+51-60,男性,日本,香川県,地域の高齢化対策が進みますように,地域の高齢化対策が進みますように,I hope that measures to combat the aging of the community will progress,我希望与社区老化的措施能够进步,지역 사회의 노화와 싸우는 조치가 진행되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,広島県,伝説的なサッカーチームの一員になれますように,伝説的なサッカーチームの一員になれますように,I hope you become part of the legendary soccer team,希望您成为传奇足球队的一部分,전설적인 축구 팀의 일원이되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+21-30,女性,パプアニューギニア,,I hope that disaster recovery will be carried out quickly,災害復興が迅速に進められますように,I hope that disaster recovery will be carried out quickly,我希望灾难恢复会很快进行,재해 회복이 빠르게 수행되기를 바랍니다.,🇵🇬,2025-05-04 23:52:11
+51-60,女性,日本,北海道,宇宙飛行士として宇宙に行けますように,宇宙飛行士として宇宙に行けますように,I hope you can go to space as an astronaut,我希望你可以作为宇航员去太空,우주 비행사로 우주로 갈 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,南アフリカ,,I hope you become an idol,アイドルになれますように,I hope you become an idol,我希望你成为偶像,나는 당신이 우상이되기를 바랍니다,🇿🇦,2025-05-04 23:52:11
+21-30,男性,日本,東京都,動物愛護が一層進みますように,動物愛護が一層進みますように,I hope animal welfare continues,我希望动物福利继续,동물 복지가 계속되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,回答しない,韓国,,가족이 안전하게 운전하는 것을 볼 수 있기를 바랍니다,家族の安全運転を見守れますように,I hope I can watch my family drive safely,我希望我可以安全地看我的家人,가족이 안전하게 운전하는 것을 볼 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+11-20,男性,イタリア,,I hope you will be selected as the executive committee of the school festival,文化祭の実行委員に選ばれますように,I hope you will be selected as the executive committee of the school festival,希望您将被选为学校节日的执行委员会,학교 축제의 집행위원회로 선정되기를 바랍니다.,🇮🇹,2025-05-04 23:52:11
+41-50,女性,中国,,希望您能参与恢复历史建筑,歴史的建造物の修復に携われますように,I hope you will be involved in restoring historic buildings.,希望您能参与恢复历史建筑。,역사적인 건물을 복원하는 데 참여하기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+51-60,男性,日本,福井県,持続可能なエネルギー利用が世界に広がりますように,持続可能なエネルギー利用が世界に広がりますように,May sustainable energy use spread all over the world,可能可持续的能源使用遍布世界各地,지속 가능한 에너지 사용이 전 세계에 퍼질 수 있습니다,🇯🇵,2025-05-04 23:52:11
+-10,女性,日本,福岡県,YouTuberになれますように,YouTuberになれますように,I hope you become a YouTuber,我希望你成为YouTuber,나는 당신이 YouTuber가되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,北海道,世界の幸福度が向上しますように,世界の幸福度が向上しますように,May the happiness of the world be improved,愿世界的幸福得到改善,세상의 행복이 향상되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+61-70,男性,コロンビア,,Espero que se pasen más tiempo para la cena con la familia alrededor de la comida,家族で料理を囲む夕食の時間が増えますように,I hope that more dinner time will be spent with family around food,我希望将更多的晚餐时间与家人一起度过,나는 더 많은 저녁 시간이 음식 주위에 가족과 함께 보낼 수 있기를 바랍니다.,🇨🇦,2025-05-04 23:52:11
+70-,男性,アルジェリア,,May the waves of emotion be calm,感情の波が穏やかになりますように,May the waves of emotion be calm,愿情感浪潮保持平静,감정의 파도가 침착 해 지길 바랍니다,🇩🇿,2025-05-04 23:52:11
+-10,女性,ボリビア,,I hope I get 100 points on the test,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇧🇴,2025-05-04 23:52:11
+41-50,女性,日本,栃木県,子どもの頃からの絵画作品を個展で展示できますように,子どもの頃からの絵画作品を個展で展示できますように,I hope that I can display my paintings from my childhood at my solo exhibition.,我希望我可以在我的童年展上展示自己的画作。,솔로 전시회에서 어린 시절의 그림을 전시 할 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,男性,タイ,,I hope that environmental protection activities will remain,環境保護活動が定着しますように,I hope that environmental protection activities will remain,我希望环境保护活动将保留,환경 보호 활동이 남아 있기를 바랍니다,🇹🇭,2025-05-04 23:52:11
+41-50,回答しない,ベネズエラ,,I hope you can break your personal best at the marathon,マラソンで自己ベストを更新できますように,I hope you can break your personal best at the marathon,希望您能在马拉松比赛中打破自己的最佳状态,마라톤에서 당신의 개인적인 최선을 다룰 수 있기를 바랍니다.,🇻🇪,2025-05-04 23:52:11
+70-,男性,日本,山形県,技術的負債が解消されますように,技術的負債が解消されますように,I hope that technical debts will be resolved,我希望技术债务将得到解决,기술 부채가 해결되기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+21-30,男性,日本,茨城県,マイクロマネジメントがなくなりますように,マイクロマネジメントがなくなりますように,I hope micromanagement will disappear,我希望微管理会消失,소액 관리가 사라지기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,回答しない,ドイツ,,"Ich hoffe, dass geschäftsgünstige Tools eingeführt werden",業務効率の良いツールが導入されますように,I hope that business-efficient tools will be introduced,我希望将介绍业务效率的工具,비즈니스 효율적인 도구가 도입되기를 바랍니다,🇩🇪,2025-05-04 23:52:11
+21-30,男性,中国,,希望您能永远与您的朋友保持亲密关系,友達とずっと仲良しでいられますように,I hope you can stay close to your friends forever,希望您能永远与您的朋友保持亲密关系,나는 당신이 영원히 친구들과 가까이있을 수 있기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+70-,女性,エチオピア,,I hope that economic growth will be realized in a sustainable way,経済成長が持続可能な形で実現しますように,I hope that economic growth will be realized in a sustainable way,我希望经济增长将以可持续的方式实现,경제 성장이 지속 가능한 방식으로 실현되기를 바랍니다.,🇪🇹,2025-05-04 23:52:11
+-10,男性,日本,茨城県,雨の日に学校が休みになりますように,雨の日に学校が休みになりますように,I hope school will be closed on a rainy day,我希望学校将在下雨天关闭,비오는 날에 학교가 문을 닫기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+70-,男性,ウクライナ,,I hope that measures to combat aging will be effective,高齢化対策が効果的に進みますように,I hope that measures to combat aging will be effective,我希望对抗衰老的措施将有效,노화와 싸우기위한 조치가 효과적이기를 바랍니다.,🇺🇦,2025-05-04 23:52:11
+-10,回答しない,日本,三重県,テストで100点取れますように,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+31-40,男性,日本,滋賀県,家族みんなで笑い合う機会が増えますように,家族みんなで笑い合う機会が増えますように,I hope that the whole family will have more opportunities to laugh together,我希望整个家庭将有更多的机会一起笑,온 가족이 함께 웃을 수있는 더 많은 기회가 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,日本,京都府,新しい学びに出会えますように,新しい学びに出会えますように,I hope you will discover new learning,希望您能发现新的学习,새로운 학습을 발견하시기 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,南アフリカ,,I hope that the safety and security of the local community can be maintained,地域の安心・安全が守られますように,I hope that the safety and security of the local community can be maintained,我希望可以维护当地社区的安全性,지역 사회의 안전과 보안이 유지 될 수 있기를 바랍니다.,🇿🇦,2025-05-04 23:52:11
+41-50,男性,韓国,,나는 가족이 건강 점검을받는 습관이되기를 바랍니다,家族で健康診断を受ける習慣がつきますように,I hope that the family will become a habit of undergoing a health check,我希望这个家庭将成为接受健康检查的习惯,나는 가족이 건강 점검을받는 습관이되기를 바랍니다.,🇰🇷,2025-05-04 23:52:11
+51-60,男性,中国,,我希望世界的教育差距将消除,世界の教育格差がなくなりますように,I hope that the world's education gap will be eliminated,我希望世界的教育差距将消除,세계의 교육 격차가 제거되기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+41-50,女性,日本,京都府,海外で新しいビジネスを立ち上げられますように,海外で新しいビジネスを立ち上げられますように,I hope you can start a new business overseas,希望您可以在海外开设一家新业务,해외에서 새로운 사업을 시작할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+51-60,男性,グアテマラ,,I hope the team will improve morale,チームの士気が向上しますように,I hope the team will improve morale,我希望团队能改善士气,팀이 사기를 향상시키기를 바랍니다,🇬🇹,2025-05-04 23:52:11
+21-30,女性,日本,高知県,地域住民の防災意識が高まりますように,地域住民の防災意識が高まりますように,I hope that local residents will be aware of disaster prevention,我希望当地居民会意识到预防灾难,지역 주민들이 재난 예방을 알고 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,女性,ケニア,,I hope that the budget for new developments is secured,新規開発の予算が確保されますように,I hope that the budget for new developments is secured,我希望确保新发展的预算,새로운 개발 예산이 확보되기를 바랍니다.,🇰🇪,2025-05-04 23:52:11
+-10,回答しない,日本,福岡県,運動会でリレーの選手になれますように,運動会でリレーの選手になれますように,I hope you will become a relay player at the sports day,希望您在运动日成为接力运动员,스포츠 데이에 릴레이 플레이어가 되길 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,男性,日本,広島県,卒論を無事に提出できますように,卒論を無事に提出できますように,I hope you can submit your graduation thesis safely,希望您可以安全地提交毕业论文,졸업 논문을 안전하게 제출할 수 있기를 바랍니다,🇯🇵,2025-05-04 23:52:11
+70-,女性,日本,茨城県,家族全員が毎日笑顔で過ごせますように,家族全員が毎日笑顔で過ごせますように,I hope that the whole family can spend every day with a smile,我希望整个家庭都能每天都带着微笑,온 가족이 매일 미소로 보낼 수 있기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+41-50,女性,日本,鹿児島県,講義の欠席がゼロになりますように,講義の欠席がゼロになりますように,I hope that there will be no absences in the lecture,我希望演讲不会缺席,강의에 결석이 없기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+-10,女性,フランス,,J'espère avoir 100 points sur le test,テストで100点取れますように,I hope I get 100 points on the test,我希望我在测试中得到100分,테스트에서 100 포인트를 얻기를 바랍니다,🇫🇷,2025-05-04 23:52:11
+51-60,女性,中国,,我希望过度的责任感将减少,過度な責任感が軽くなりますように,I hope that excessive sense of responsibility will be reduced,我希望过度的责任感将减少,과도한 책임감이 줄어들기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+41-50,女性,日本,青森県,災害復興が迅速に進められますように,災害復興が迅速に進められますように,I hope that disaster recovery will be carried out quickly,我希望灾难恢复会很快进行,재해 회복이 빠르게 수행되기를 바랍니다.,🇯🇵,2025-05-04 23:52:11
+61-70,女性,ドミニカ共和国,,I hope you don't have to worry about relationships,人間関係で悩みませんように,I hope you don't have to worry about relationships,我希望你不必担心人际关系,관계에 대해 걱정할 필요가 없기를 바랍니다,🇩🇴,2025-05-04 23:52:11
+21-30,男性,日本,福井県,年間評価で高評価を得られますように,年間評価で高評価を得られますように,I hope you get a high rating in the annual review,希望您在年度评论中获得高评分,연례 검토에서 높은 평가를 받으시기 바랍니다.,🇯🇵,2025-05-04 23:52:11
+31-40,男性,中国,,我希望灾难恢复会很快进行,災害復興が迅速に進められますように,I hope that disaster recovery will be carried out quickly,我希望灾难恢复会很快进行,재해 회복이 빠르게 수행되기를 바랍니다.,🇨🇳,2025-05-04 23:52:11
+-10,回答しない,ホンジュラス,,I hope you will be the best in physical education classes,体育の授業で一番になれますように,I hope you will be the best in physical education classes,希望您能成为体育课上最好的,나는 당신이 체육 수업에서 최고가되기를 바랍니다.,🇭🇳,2025-05-04 23:52:11
+31-40,女性,韓国,,원격 작업이 계속 될 수 있기를 바랍니다,リモートワークが継続できますように,I hope remote work can continue,我希望远程工作可以继续,원격 작업이 계속 될 수 있기를 바랍니다,🇰🇷,2025-05-04 23:52:11
+41-50,男性,Japan,青森県,家族仲良く暮らせますように,家族仲良く暮らせますように,I hope you can live in harmony with your family,希望您能与家人和谐相处,나는 당신이 당신의 가족과 조화롭게 살 수 있기를 바랍니다.,🇯🇵,2025-05-05 20:23:47
+21-30,女性,France,,Que l'amour se répande dans le monde entier,その愛は世界中に広がっています,That love is spread throughout the world,那爱在世界各地传播,그 사랑은 전 세계에 퍼져 있습니다,🇫🇷,2025-05-05 21:14:50
+41-50,男性,France,,Que l'amour se répande dans le monde entier,その愛は世界中に広がっています,That love is spread throughout the world,那爱在世界各地传播,그 사랑은 전 세계에 퍼져 있습니다,🇫🇷,2025-05-05 21:22:02
+21-30,女性,France,,Que l'amour se répande dans le monde entier,その愛は世界中に広がっています,That love is spread throughout the world,那爱在世界各地传播,그 사랑은 전 세계에 퍼져 있습니다,🇫🇷,2025-05-05 21:26:51
+21-30,女性,France,,Que l'amour se répande dans le monde entier,その愛は世界中に広がっています,That love is spread throughout the world,那爱在世界各地传播,그 사랑은 전 세계에 퍼져 있습니다,🇫🇷,2025-05-05 21:29:08
+-10,男性,Japan,埼玉県,みんな仲良く,みんな仲良く,Everyone is friendly,每个人都很友好,모두가 친절합니다,🇯🇵,2025-05-05 21:30:55

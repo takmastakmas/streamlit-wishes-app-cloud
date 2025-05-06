@@ -1,0 +1,11 @@
+NUM_READS = 100  # Number of reads for QUBO sampling
+SCHEDULE = [(0.0, 10), (0.5, 10), (1.0, 10)]  # Annealing schedule settings
+LAMBDA1 = 300.0  # Weight for similarity in ordering
+LAMBDA2 = 20.0   # Weight for diversity in attributes
+LAMBDA3 = 10.0   # Weight for uniqueness constraint
+LAMBDA4 = 10.0   # Weight for position uniqueness constraint
+ALPHA = 0.1      # Weight for similarity amplification in ordering
+WEIGHT_COUNTRY = 10  # Weight for country attribute
+WEIGHT_PREF = 1      # Weight for prefecture attribute
+WEIGHT_AGE = 5       # Weight for age attribute
+WEIGHT_GENDER = 2    # Weight for gender attribute
