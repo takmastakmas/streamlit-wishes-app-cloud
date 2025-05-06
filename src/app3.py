@@ -45,10 +45,11 @@ def encode_attributes(df):
     le_gender = LabelEncoder()
     le_pref = LabelEncoder()
 
-    encoded_country = le_country.fit_transform(df["country"]).astype(int)
-    encoded_age = le_age.fit_transform(df["age"]).astype(int)
-    encoded_gender = le_gender.fit_transform(df["gender"]).astype(int)
-    encoded_pref = le_pref.fit_transform(df["prefecture"].fillna("不明")).astype(int)
+    # すべて文字列型に変換する
+    encoded_country = le_country.fit_transform(df["country"].astype(str)).astype(int)
+    encoded_age = le_age.fit_transform(df["age"].astype(str)).astype(int)
+    encoded_gender = le_gender.fit_transform(df["gender"].astype(str)).astype(int)
+    encoded_pref = le_pref.fit_transform(df["prefecture"].fillna("不明").astype(str)).astype(int)
 
     attributes = {
         "country": encoded_country,
