@@ -40,7 +40,7 @@ def vectorize_wishes(wishes):
             model_path = path
             break
 
-    model = SentenceTransformer(model_path)
+    model = SentenceTransformer(model_path, device="cpu")
     wish_vectors = model.encode(wishes, normalize_embeddings=True)
     return wish_vectors
 
